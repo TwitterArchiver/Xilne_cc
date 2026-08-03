@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2025838696294227968",
+    "conversation_id": "2041155821279863239",
+    "created_at": "2026-04-06T15:37:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-06T16:37:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041178497046163776"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1714008587012612097",
+          "start": 0,
+          "username": "angelkawaii2P"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041178497046163776",
+    "in_reply_to_user_id": "1714008587012612097",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041164284227715358",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@angelkawaii2P 在学校，学校在村里，没有外卖，所以绝望૮ o̴̶̷᷄ ·̫ o̴̶̷̥᷅ ა就算知道什么有用也没办法买，无力感，只能熬到明天😭谢谢宝宝wwww"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025838696294227968",
+        "conversation_id": "2041155821279863239",
+        "created_at": "2026-04-06T15:37:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T16:37:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041178497046163776"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1714008587012612097",
+              "start": 0,
+              "username": "angelkawaii2P"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041178497046163776",
+        "in_reply_to_user_id": "1714008587012612097",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041164284227715358",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@angelkawaii2P 在学校，学校在村里，没有外卖，所以绝望૮ o̴̶̷᷄ ·̫ o̴̶̷̥᷅ ა就算知道什么有用也没办法买，无力感，只能熬到明天😭谢谢宝宝wwww"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1714008587012612097",
+        "conversation_id": "2041155821279863239",
+        "created_at": "2026-04-06T14:41:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T15:41:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041164284227715358"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2025838696294227968",
+              "start": 0,
+              "username": "Xilne_cc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041164284227715358",
+        "in_reply_to_user_id": "2025838696294227968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041155821279863239",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xilne_cc 我覺得之前拔智齒吃的克他服寧蠻有效（？）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T07:42:57.000Z",
+        "description": "06‖自伤‖oder‖infp‖查成分互fo‖互fo私信‖bdsm‖缚绳‖未婚夫：@wys250smsb（反正在我結婚之前是不會鼠掉的啦！放心交友，私信一直开放）🚪详情私信‖提问：https://t.co/fyBUnrwbOs",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 41,
+                "username": "wys250smsb"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/lindong67314",
+                "end": 113,
+                "expanded_url": "https://ngl.link/lindong67314",
+                "start": 90,
+                "url": "https://t.co/fyBUnrwbOs"
+              }
+            ]
+          }
+        },
+        "id": "2025838696294227968",
+        "name": "凜冬",
+        "pinned_tweet_id": "2038929386372759978",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027609748909256704/xHIVymX5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 251,
+          "following_count": 184,
+          "like_count": 1590,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 379
+        },
+        "username": "Xilne_cc",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-16T20:01:18.000Z",
+        "description": "",
+        "id": "1714008587012612097",
+        "location": "天国",
+        "name": "天国ナミダ",
+        "pinned_tweet_id": "2039170935308296533",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041138582778425344/tfuXk2ne_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 418,
+          "following_count": 254,
+          "like_count": 1365,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 1817
+        },
+        "username": "angelkawaii2P",
+        "verified": false
+      }
+    ]
+  }
+}

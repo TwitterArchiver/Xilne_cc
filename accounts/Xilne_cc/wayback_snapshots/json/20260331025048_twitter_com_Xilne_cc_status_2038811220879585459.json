@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2025838696294227968",
+    "conversation_id": "2038673038242468313",
+    "created_at": "2026-03-31T02:50:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-31T03:50:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038811220879585459"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1886385501130866688",
+          "start": 0,
+          "username": "Lomyral"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038811220879585459",
+    "in_reply_to_user_id": "1886385501130866688",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038810958831952275",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lomyral 爽爽爽爽o！！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025838696294227968",
+        "conversation_id": "2038673038242468313",
+        "created_at": "2026-03-31T02:50:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T03:50:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038811220879585459"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1886385501130866688",
+              "start": 0,
+              "username": "Lomyral"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038811220879585459",
+        "in_reply_to_user_id": "1886385501130866688",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038810958831952275",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lomyral 爽爽爽爽o！！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1886385501130866688",
+        "conversation_id": "2038673038242468313",
+        "created_at": "2026-03-31T02:49:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T03:49:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038810958831952275"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2025838696294227968",
+              "start": 0,
+              "username": "Xilne_cc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038810958831952275",
+        "in_reply_to_user_id": "2025838696294227968",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038770320845455379",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xilne_cc 爽o(？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T07:42:57.000Z",
+        "description": "♡·愛你ちゃん成長日記⁺♡\nhttps://t.co/fyBUnrwbOs",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lindong67314",
+                "end": 37,
+                "expanded_url": "https://ngl.link/lindong67314",
+                "start": 14,
+                "url": "https://t.co/fyBUnrwbOs"
+              }
+            ]
+          }
+        },
+        "id": "2025838696294227968",
+        "name": "凜冬",
+        "pinned_tweet_id": "2034434093933629675",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027609748909256704/xHIVymX5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 136,
+          "following_count": 141,
+          "like_count": 1151,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 236
+        },
+        "username": "Xilne_cc",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-03T12:05:49.000Z",
+        "description": "enby,he/they.泛性恋.日常推,除了碎碎念就没别的了.不贩卖任何东西.我不吸毒，别钓了",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lomyral",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lomyral",
+                "start": 0,
+                "url": "https://t.co/ZWfkB4yLYI"
+              }
+            ]
+          }
+        },
+        "id": "1886385501130866688",
+        "location": "医院药房",
+        "name": "Lomyral",
+        "pinned_tweet_id": "2037008321446830236",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888630778453729280/vZIfPLyg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 509,
+          "following_count": 459,
+          "like_count": 36331,
+          "listed_count": 0,
+          "media_count": 70,
+          "tweet_count": 4158
+        },
+        "url": "https://t.co/ZWfkB4yLYI",
+        "username": "Lomyral",
+        "verified": false
+      }
+    ]
+  }
+}

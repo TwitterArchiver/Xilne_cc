@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2025838696294227968",
+    "conversation_id": "2038674790085808281",
+    "created_at": "2026-03-31T02:34:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-31T03:34:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038807009106300997"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2014723682548224000",
+          "start": 0,
+          "username": "FanQie_CaoDamn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038807009106300997",
+    "in_reply_to_user_id": "2014723682548224000",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038674790085808281",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FanQie_CaoDamn 老婆！！！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2038674779407081473",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HErT6RcbYAEa0nj.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025838696294227968",
+        "conversation_id": "2038674790085808281",
+        "created_at": "2026-03-31T02:34:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T03:34:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038807009106300997"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2014723682548224000",
+              "start": 0,
+              "username": "FanQie_CaoDamn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038807009106300997",
+        "in_reply_to_user_id": "2014723682548224000",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038674790085808281",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FanQie_CaoDamn 老婆！！！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2038674779407081473"
+          ]
+        },
+        "author_id": "2014723682548224000",
+        "conversation_id": "2038674790085808281",
+        "created_at": "2026-03-30T17:48:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T18:48:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038674790085808281"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DCh1BrA3Hz",
+              "end": 29,
+              "expanded_url": "https://x.com/FanQie_CaoDamn/status/2038674790085808281/photo/1",
+              "media_key": "3_2038674779407081473",
+              "start": 6,
+              "url": "https://t.co/DCh1BrA3Hz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038674790085808281",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 232,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "額額（？） https://t.co/DCh1BrA3Hz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T07:42:57.000Z",
+        "description": "♡·愛你ちゃん成長日記⁺♡\nhttps://t.co/fyBUnrwbOs",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lindong67314",
+                "end": 37,
+                "expanded_url": "https://ngl.link/lindong67314",
+                "start": 14,
+                "url": "https://t.co/fyBUnrwbOs"
+              }
+            ]
+          }
+        },
+        "id": "2025838696294227968",
+        "name": "凜冬",
+        "pinned_tweet_id": "2034434093933629675",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027609748909256704/xHIVymX5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 136,
+          "following_count": 141,
+          "like_count": 1145,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 234
+        },
+        "username": "Xilne_cc",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-23T15:35:47.000Z",
+        "description": "11年 友跨 順女 查成分回fo\n家妻@fuyi0816",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 19,
+                "username": "fuyi0816"
+              }
+            ]
+          }
+        },
+        "id": "2014723682548224000",
+        "location": "🚪",
+        "name": "番茄操蛋5.0",
+        "pinned_tweet_id": "2034970612104667382",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037832407521665024/m9NrbAW-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 730,
+          "following_count": 411,
+          "like_count": 6074,
+          "listed_count": 0,
+          "media_count": 170,
+          "tweet_count": 2174
+        },
+        "username": "FanQie_CaoDamn",
+        "verified": true
+      }
+    ]
+  }
+}

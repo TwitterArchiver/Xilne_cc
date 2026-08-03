@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2025838696294227968",
+    "conversation_id": "2039318948857126940",
+    "created_at": "2026-04-02T01:59:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-02T02:59:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039523028871336057"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2009255871201841152",
+          "start": 0,
+          "username": "mandy091024"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039523028871336057",
+    "in_reply_to_user_id": "2009255871201841152",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039522114403996136",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mandy091024 我也这么觉得/ᐠ - ˕ -マ Ⳋ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025838696294227968",
+        "conversation_id": "2039318948857126940",
+        "created_at": "2026-04-02T01:59:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T02:59:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039523028871336057"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2009255871201841152",
+              "start": 0,
+              "username": "mandy091024"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039523028871336057",
+        "in_reply_to_user_id": "2009255871201841152",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039522114403996136",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mandy091024 我也这么觉得/ᐠ - ˕ -マ Ⳋ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2009255871201841152",
+        "conversation_id": "2039318948857126940",
+        "created_at": "2026-04-02T01:55:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T02:55:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039522114403996136"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2025838696294227968",
+              "start": 0,
+              "username": "Xilne_cc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039522114403996136",
+        "in_reply_to_user_id": "2025838696294227968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039318948857126940",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xilne_cc 好萌呀这个"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T07:42:57.000Z",
+        "description": "♡·愛你ちゃん成長日記⁺♡\n未婚夫：@wys250smsb（反正在我結婚之前是不會鼠掉的啦！放心交友）\nhttps://t.co/fyBUnrwbOs",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 18,
+                "username": "wys250smsb"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/lindong67314",
+                "end": 75,
+                "expanded_url": "https://ngl.link/lindong67314",
+                "start": 52,
+                "url": "https://t.co/fyBUnrwbOs"
+              }
+            ]
+          }
+        },
+        "id": "2025838696294227968",
+        "name": "凜冬",
+        "pinned_tweet_id": "2034434093933629675",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027609748909256704/xHIVymX5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 194,
+          "following_count": 166,
+          "like_count": 1318,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 292
+        },
+        "username": "Xilne_cc",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-08T13:28:35.000Z",
+        "description": "🐱🖤消肿笔来互fo好吗（❌男）\n真皮妹/od/09/休学",
+        "id": "2009255871201841152",
+        "name": "Ag",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033514627989127168/CtxbopiM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 162,
+          "like_count": 482,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 104
+        },
+        "username": "mandy091024",
+        "verified": false
+      }
+    ]
+  }
+}

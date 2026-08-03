@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2025838696294227968",
+    "conversation_id": "2034639443647496207",
+    "created_at": "2026-03-20T14:33:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-20T15:33:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035001805327970772"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1714008587012612097",
+          "start": 0,
+          "username": "angelkawaii2P"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035001805327970772",
+    "in_reply_to_user_id": "1714008587012612097",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034981365532492115",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@angelkawaii2P 发你啦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025838696294227968",
+        "conversation_id": "2034639443647496207",
+        "created_at": "2026-03-20T14:33:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-20T15:33:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035001805327970772"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1714008587012612097",
+              "start": 0,
+              "username": "angelkawaii2P"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035001805327970772",
+        "in_reply_to_user_id": "1714008587012612097",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034981365532492115",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@angelkawaii2P 发你啦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1714008587012612097",
+        "conversation_id": "2034639443647496207",
+        "created_at": "2026-03-20T13:12:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-20T14:12:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034981365532492115"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2025838696294227968",
+              "start": 0,
+              "username": "Xilne_cc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034981365532492115",
+        "in_reply_to_user_id": "2025838696294227968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034639443647496207",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xilne_cc 臥槽好便宜哪個平台偷偷發我"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T07:42:57.000Z",
+        "description": "♡·愛你ちゃん成長日記⁺♡",
+        "id": "2025838696294227968",
+        "name": "凜冬",
+        "pinned_tweet_id": "2034434093933629675",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027609748909256704/xHIVymX5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 76,
+          "like_count": 166,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 83
+        },
+        "username": "Xilne_cc",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-16T20:01:18.000Z",
+        "description": "20↑｜病み垢 置頂必読｜重加工 線下查無此人｜不登校餐券od妹｜🚪座標問題10r一個｜其餘置頂不看拉黑",
+        "id": "1714008587012612097",
+        "location": "天国",
+        "name": "ナミダ#土衛拾叁",
+        "pinned_tweet_id": "1971676121508024661",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033791612153958400/sYWO705T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 370,
+          "following_count": 228,
+          "like_count": 1122,
+          "listed_count": 0,
+          "media_count": 60,
+          "tweet_count": 1570
+        },
+        "username": "angelkawaii2P",
+        "verified": false
+      }
+    ]
+  }
+}

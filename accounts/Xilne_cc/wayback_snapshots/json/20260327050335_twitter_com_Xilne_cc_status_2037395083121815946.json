@@ -1,0 +1,146 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2037395080374550529"
+      ]
+    },
+    "author_id": "2025838696294227968",
+    "conversation_id": "2037395083121815946",
+    "created_at": "2026-03-27T05:03:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-27T06:03:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2037395083121815946"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/6kgMXkHVxt",
+          "end": 43,
+          "expanded_url": "https://x.com/Xilne_cc/status/2037395083121815946/photo/1",
+          "media_key": "3_2037395080374550529",
+          "start": 20,
+          "url": "https://t.co/6kgMXkHVxt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037395083121815946",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "好怀念在老公家泡澡的日子……不想上课了 https://t.co/6kgMXkHVxt"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2037395080374550529",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEZIB_DagAEufTb.jpg",
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2037395080374550529"
+          ]
+        },
+        "author_id": "2025838696294227968",
+        "conversation_id": "2037395083121815946",
+        "created_at": "2026-03-27T05:03:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T06:03:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037395083121815946"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6kgMXkHVxt",
+              "end": 43,
+              "expanded_url": "https://x.com/Xilne_cc/status/2037395083121815946/photo/1",
+              "media_key": "3_2037395080374550529",
+              "start": 20,
+              "url": "https://t.co/6kgMXkHVxt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037395083121815946",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好怀念在老公家泡澡的日子……不想上课了 https://t.co/6kgMXkHVxt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T07:42:57.000Z",
+        "description": "♡·愛你ちゃん成長日記⁺♡\nhttps://t.co/fyBUnrwbOs",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lindong67314",
+                "end": 37,
+                "expanded_url": "https://ngl.link/lindong67314",
+                "start": 14,
+                "url": "https://t.co/fyBUnrwbOs"
+              }
+            ]
+          }
+        },
+        "id": "2025838696294227968",
+        "name": "凜冬",
+        "pinned_tweet_id": "2034434093933629675",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027609748909256704/xHIVymX5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 120,
+          "following_count": 116,
+          "like_count": 1025,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 175
+        },
+        "username": "Xilne_cc",
+        "verified": false
+      }
+    ]
+  }
+}

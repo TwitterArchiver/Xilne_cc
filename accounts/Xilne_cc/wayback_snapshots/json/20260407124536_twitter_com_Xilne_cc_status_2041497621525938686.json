@@ -1,0 +1,288 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2025838696294227968",
+    "conversation_id": "2041488367788130806",
+    "created_at": "2026-04-07T12:45:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-07T13:45:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041497621525938686"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1795686729912893440",
+          "start": 0,
+          "username": "falehalday83493"
+        },
+        {
+          "end": 30,
+          "id": "1965246583379034117",
+          "start": 17,
+          "username": "hyunjennagua"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041497621525938686",
+    "in_reply_to_user_id": "1795686729912893440",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041488367788130806",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@falehalday83493 @hyunjennagua 来浅浅拉低一下中奖率喵喵喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025838696294227968",
+        "conversation_id": "2041488367788130806",
+        "created_at": "2026-04-07T12:45:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T13:45:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041497621525938686"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1795686729912893440",
+              "start": 0,
+              "username": "falehalday83493"
+            },
+            {
+              "end": 30,
+              "id": "1965246583379034117",
+              "start": 17,
+              "username": "hyunjennagua"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041497621525938686",
+        "in_reply_to_user_id": "1795686729912893440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041488367788130806",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@falehalday83493 @hyunjennagua 来浅浅拉低一下中奖率喵喵喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1795686729912893440",
+        "conversation_id": "2041488367788130806",
+        "created_at": "2026-04-07T12:08:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T13:08:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041488367788130806"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2041488367788130806",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 73,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "这是一个800fo开的抽奖\n一等奖（一份）奶茶（25）\n二等奖（两份）红贝印（10）\n三等奖（三份）消毒水 （3）\n只抽互fo呀爱你们❤️❤️❤️❤️"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T07:42:57.000Z",
+        "description": "06‖自伤🔪‖od💊‖infp‖查成分互fo‖互fo私信‖bdsm‖缚绳‖未婚夫：@wys250smsb（反正在我結婚之前是不會鼠掉的啦！放心交友，私信一直开放）🚪详情私信‖提问：https://t.co/fyBUnrwbOs",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 41,
+                "username": "wys250smsb"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/lindong67314",
+                "end": 113,
+                "expanded_url": "https://ngl.link/lindong67314",
+                "start": 90,
+                "url": "https://t.co/fyBUnrwbOs"
+              }
+            ]
+          }
+        },
+        "id": "2025838696294227968",
+        "name": "凜冬",
+        "pinned_tweet_id": "2038929386372759978",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027609748909256704/xHIVymX5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 258,
+          "following_count": 185,
+          "like_count": 1646,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 425
+        },
+        "username": "Xilne_cc",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-29T05:21:31.000Z",
+        "description": "🐧629957795🛰️s520_w-w\n15-170-160  接线下喜欢od",
+        "id": "1795686729912893440",
+        "location": "乐山某地",
+        "name": "安眠药",
+        "pinned_tweet_id": "2018882122472391114",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987572725284765696/Uy4Wpbf9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 788,
+          "following_count": 125,
+          "like_count": 4519,
+          "listed_count": 1,
+          "media_count": 121,
+          "tweet_count": 1091
+        },
+        "url": "",
+        "username": "falehalday83493",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-09T02:51:21.000Z",
+        "description": "小号：@hyunjennnagua好闺蜜：@colleen_ab6642推群链接查成分通过https://t.co/9lJK4ODH1O匿名👇",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 3,
+                "username": "hyunjennnagua"
+              },
+              {
+                "end": 36,
+                "start": 21,
+                "username": "colleen_ab6642"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "x.com/i/chat/group_j…",
+                "end": 68,
+                "expanded_url": "https://x.com/i/chat/group_join/g2028830625013060041/uq4q8HKRG7",
+                "start": 45,
+                "url": "https://t.co/9lJK4ODH1O"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jennie62981",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jennie62981",
+                "start": 0,
+                "url": "https://t.co/ia6I6dHChs"
+              }
+            ]
+          }
+        },
+        "id": "1965246583379034117",
+        "location": "0.1km",
+        "name": "南瓜",
+        "pinned_tweet_id": "2037765495902921128",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040976718178164736/Ra9cxGBA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1226,
+          "following_count": 670,
+          "like_count": 3964,
+          "listed_count": 0,
+          "media_count": 232,
+          "tweet_count": 2074
+        },
+        "url": "https://t.co/ia6I6dHChs",
+        "username": "hyunjennagua",
+        "verified": true
+      },
+      {
+        "created_at": "2024-05-29T05:21:31.000Z",
+        "description": "🐧629957795🛰️s520_w-w\n15-170-160  接线下喜欢od",
+        "id": "1795686729912893440",
+        "location": "乐山某地",
+        "name": "安眠药",
+        "pinned_tweet_id": "2018882122472391114",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987572725284765696/Uy4Wpbf9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 788,
+          "following_count": 125,
+          "like_count": 4519,
+          "listed_count": 1,
+          "media_count": 121,
+          "tweet_count": 1091
+        },
+        "username": "falehalday83493",
+        "verified": false
+      }
+    ]
+  }
+}

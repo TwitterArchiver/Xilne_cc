@@ -1,0 +1,118 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2025838696294227968",
+    "conversation_id": "2047106284340793709",
+    "created_at": "2026-04-23T00:12:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T01:12:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2047106284340793709"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2047106284340793709",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "鎮定劑我喜歡你\n解離劑我也喜歡你\n我好平靜啊，我好舒服"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025838696294227968",
+        "conversation_id": "2047106284340793709",
+        "created_at": "2026-04-23T00:12:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T01:12:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047106284340793709"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2047106284340793709",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "鎮定劑我喜歡你\n解離劑我也喜歡你\n我好平靜啊，我好舒服"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T07:42:57.000Z",
+        "description": "提前準備好2.0防封@lindong2200‖06‖自伤🔪‖重抑重焦精分‖infp‖查成分互fo‖互fo私信‖bdsm‖缚绳‖未婚夫：@wys250smsb（反正在我結婚之前是不會鼠掉的啦！放心交友，私信一直开放）🚪详情私信‖提问：https://t.co/fyBUnrwbOs",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 10,
+                "username": "lindong2200"
+              },
+              {
+                "end": 78,
+                "start": 67,
+                "username": "wys250smsb"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/lindong67314",
+                "end": 139,
+                "expanded_url": "https://ngl.link/lindong67314",
+                "start": 116,
+                "url": "https://t.co/fyBUnrwbOs"
+              }
+            ]
+          }
+        },
+        "id": "2025838696294227968",
+        "name": "凜冬（千年老王八不死版）",
+        "pinned_tweet_id": "2038929386372759978",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027609748909256704/xHIVymX5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 323,
+          "following_count": 215,
+          "like_count": 1822,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 578
+        },
+        "username": "Xilne_cc",
+        "verified": false
+      }
+    ]
+  }
+}

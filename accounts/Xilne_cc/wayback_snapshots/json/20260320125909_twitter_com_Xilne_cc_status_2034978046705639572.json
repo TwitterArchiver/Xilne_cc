@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2034978025939636224",
+        "3_2034978030725341185"
+      ]
+    },
+    "author_id": "2025838696294227968",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2034978046705639572",
+    "created_at": "2026-03-20T12:59:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-20T13:59:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2034978046705639572"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/JtsnJtOMfn",
+          "end": 37,
+          "expanded_url": "https://x.com/Xilne_cc/status/2034978046705639572/photo/1",
+          "media_key": "3_2034978025939636224",
+          "start": 14,
+          "url": "https://t.co/JtsnJtOMfn"
+        },
+        {
+          "display_url": "pic.x.com/JtsnJtOMfn",
+          "end": 37,
+          "expanded_url": "https://x.com/Xilne_cc/status/2034978046705639572/photo/1",
+          "media_key": "3_2034978030725341185",
+          "start": 14,
+          "url": "https://t.co/JtsnJtOMfn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034978046705639572",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "抽屉已就绪！等待快递中…… https://t.co/JtsnJtOMfn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2034978025939636224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HD2xu5nbkAAADGD.jpg",
+        "width": 1920
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2034978030725341185",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HD2xvLcboAEr-gq.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2034978025939636224",
+            "3_2034978030725341185"
+          ]
+        },
+        "author_id": "2025838696294227968",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2034978046705639572",
+        "created_at": "2026-03-20T12:59:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-20T13:59:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034978046705639572"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JtsnJtOMfn",
+              "end": 37,
+              "expanded_url": "https://x.com/Xilne_cc/status/2034978046705639572/photo/1",
+              "media_key": "3_2034978025939636224",
+              "start": 14,
+              "url": "https://t.co/JtsnJtOMfn"
+            },
+            {
+              "display_url": "pic.x.com/JtsnJtOMfn",
+              "end": 37,
+              "expanded_url": "https://x.com/Xilne_cc/status/2034978046705639572/photo/1",
+              "media_key": "3_2034978030725341185",
+              "start": 14,
+              "url": "https://t.co/JtsnJtOMfn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034978046705639572",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "抽屉已就绪！等待快递中…… https://t.co/JtsnJtOMfn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T07:42:57.000Z",
+        "description": "♡·愛你ちゃん成長日記⁺♡",
+        "id": "2025838696294227968",
+        "name": "凜冬",
+        "pinned_tweet_id": "2034434093933629675",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027609748909256704/xHIVymX5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 76,
+          "like_count": 166,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 81
+        },
+        "username": "Xilne_cc",
+        "verified": false
+      }
+    ]
+  }
+}

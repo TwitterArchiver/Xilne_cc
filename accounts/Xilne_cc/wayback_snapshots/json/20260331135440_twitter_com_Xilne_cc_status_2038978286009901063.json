@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2025838696294227968",
+    "conversation_id": "2038811098233839954",
+    "created_at": "2026-03-31T13:54:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-31T14:54:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038978286009901063"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2009255871201841152",
+          "start": 0,
+          "username": "mandy091024"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038978286009901063",
+    "in_reply_to_user_id": "2009255871201841152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038971445234303285",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mandy091024 我真皮，一点感觉都没有，我一直以为是pr止痛，但是药效过了也是一点感觉都没有，表皮就在这里一直发炎！然后疼疼疼疼疼疼₌ᗜ - ᗜ₌"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025838696294227968",
+        "conversation_id": "2038811098233839954",
+        "created_at": "2026-03-31T13:54:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T14:54:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038978286009901063"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2009255871201841152",
+              "start": 0,
+              "username": "mandy091024"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038978286009901063",
+        "in_reply_to_user_id": "2009255871201841152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038971445234303285",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mandy091024 我真皮，一点感觉都没有，我一直以为是pr止痛，但是药效过了也是一点感觉都没有，表皮就在这里一直发炎！然后疼疼疼疼疼疼₌ᗜ - ᗜ₌"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2009255871201841152",
+        "conversation_id": "2038811098233839954",
+        "created_at": "2026-03-31T13:27:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T14:27:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038971445234303285"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2025838696294227968",
+              "start": 0,
+              "username": "Xilne_cc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038971445234303285",
+        "in_reply_to_user_id": "2025838696294227968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038811098233839954",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xilne_cc 我感觉表皮比真皮脂肪都疼其实😣"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T07:42:57.000Z",
+        "description": "♡·愛你ちゃん成長日記⁺♡\nhttps://t.co/fyBUnrwbOs",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lindong67314",
+                "end": 37,
+                "expanded_url": "https://ngl.link/lindong67314",
+                "start": 14,
+                "url": "https://t.co/fyBUnrwbOs"
+              }
+            ]
+          }
+        },
+        "id": "2025838696294227968",
+        "name": "凜冬",
+        "pinned_tweet_id": "2034434093933629675",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027609748909256704/xHIVymX5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 149,
+          "following_count": 151,
+          "like_count": 1198,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 264
+        },
+        "username": "Xilne_cc",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-08T13:28:35.000Z",
+        "description": "🐱🖤消肿笔来互fo好吗（❌男）\n真皮妹/od",
+        "id": "2009255871201841152",
+        "name": "Ag",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033514627989127168/CtxbopiM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 157,
+          "like_count": 468,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 98
+        },
+        "username": "mandy091024",
+        "verified": false
+      }
+    ]
+  }
+}

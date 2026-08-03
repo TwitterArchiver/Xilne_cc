@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2025838696294227968",
+    "conversation_id": "2040764160712278230",
+    "created_at": "2026-04-05T12:12:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-05T13:12:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040764550728053138"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2040764550728053138",
+    "in_reply_to_user_id": "2025838696294227968",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040764160712278230",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "应该讲短时间内不会再od了，我也正在戒pr来着，至于那死玉米片子我也不会再吃了，我要攒着我的cd拿盐野义爬一下高原，请大家放心我会等白兔彻底代谢完再爬的，嗯对先说这么多"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025838696294227968",
+        "conversation_id": "2040764160712278230",
+        "created_at": "2026-04-05T12:12:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T13:12:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040764550728053138"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2040764550728053138",
+        "in_reply_to_user_id": "2025838696294227968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040764160712278230",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "应该讲短时间内不会再od了，我也正在戒pr来着，至于那死玉米片子我也不会再吃了，我要攒着我的cd拿盐野义爬一下高原，请大家放心我会等白兔彻底代谢完再爬的，嗯对先说这么多"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025838696294227968",
+        "conversation_id": "2040764160712278230",
+        "created_at": "2026-04-05T12:11:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T13:11:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040764160712278230"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2040764160712278230",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这粉色的推特是怎么回事？我吃白兔吃死自己了？？谁来给我讲个前因后果🤔（我对象说我的表达能力堪比老家的玉米，还像成熟的香蕉）我一直以为是白兔该死的半衰期来着，原来是中毒了吗🤔不过！请大家放心！我已非常安全的下机，除了尿潴留这一点都挺好的！短时间内我是不会再吃白兔了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T07:42:57.000Z",
+        "description": "06‖自伤‖oder‖infp‖查成分互fo‖互fo私信‖bdsm‖缚绳‖未婚夫：@wys250smsb（反正在我結婚之前是不會鼠掉的啦！放心交友，私信一直开放）🚪详情私信‖提问：https://t.co/fyBUnrwbOs",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 41,
+                "username": "wys250smsb"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/lindong67314",
+                "end": 113,
+                "expanded_url": "https://ngl.link/lindong67314",
+                "start": 90,
+                "url": "https://t.co/fyBUnrwbOs"
+              }
+            ]
+          }
+        },
+        "id": "2025838696294227968",
+        "name": "凜冬",
+        "pinned_tweet_id": "2038929386372759978",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027609748909256704/xHIVymX5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 246,
+          "following_count": 178,
+          "like_count": 1530,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 348
+        },
+        "username": "Xilne_cc",
+        "verified": false
+      }
+    ]
+  }
+}

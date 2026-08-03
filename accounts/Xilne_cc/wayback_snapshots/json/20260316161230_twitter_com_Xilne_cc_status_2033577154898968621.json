@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2025838696294227968",
+    "conversation_id": "2033500367615652239",
+    "created_at": "2026-03-16T16:12:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-16T17:12:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033577154898968621"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1688959853346140178",
+          "start": 0,
+          "username": "Ellieo07"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033577154898968621",
+    "in_reply_to_user_id": "1688959853346140178",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033500367615652239",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ellieo07 我18t就出現幻覺了，而且不是第一次o，每個人的耐藥性都不一樣吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025838696294227968",
+        "conversation_id": "2033500367615652239",
+        "created_at": "2026-03-16T16:12:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T17:12:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033577154898968621"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1688959853346140178",
+              "start": 0,
+              "username": "Ellieo07"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033577154898968621",
+        "in_reply_to_user_id": "1688959853346140178",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033500367615652239",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ellieo07 我18t就出現幻覺了，而且不是第一次o，每個人的耐藥性都不一樣吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1688959853346140178",
+        "conversation_id": "2033500367615652239",
+        "created_at": "2026-03-16T11:07:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T12:07:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033500367615652239"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2033500367615652239",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 951,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "说起来到底多少玉米能出现幻觉？我每次o十几片只能感觉到头晕和解离还有想吐 不过如果玉米不会让我想吐的话我会把它当午饭吃的 可惜我实在不喜欢想吐的感觉 有点像在晕车"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T07:42:57.000Z",
+        "description": "♡·愛你ちゃん成長日記⁺♡",
+        "id": "2025838696294227968",
+        "name": "凜冬",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027609748909256704/xHIVymX5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 4,
+          "like_count": 4,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 6
+        },
+        "username": "Xilne_cc",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-08T17:06:38.000Z",
+        "description": "解离中   直fo基本都会回的💕欢迎来找我玩 男的婉拒",
+        "id": "1688959853346140178",
+        "name": "estelle",
+        "pinned_tweet_id": "2032137448562831599",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031192448437985280/bKRLmS5c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 165,
+          "following_count": 165,
+          "like_count": 383,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 328
+        },
+        "username": "Ellieo07",
+        "verified": false
+      }
+    ]
+  }
+}

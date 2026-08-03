@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2025838696294227968",
+    "conversation_id": "2035541848757010737",
+    "created_at": "2026-03-22T02:19:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-22T03:19:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2035541848757010737"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2035541848757010737",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "昨晚做梦梦到自己干嚼白兔\n那个干嚼玉米片的人呢你影响到我了！我不敢嚼玉米片就让我在梦里嚼白兔是吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025838696294227968",
+        "conversation_id": "2035541848757010737",
+        "created_at": "2026-03-22T02:19:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T03:19:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035541848757010737"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2035541848757010737",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "昨晚做梦梦到自己干嚼白兔\n那个干嚼玉米片的人呢你影响到我了！我不敢嚼玉米片就让我在梦里嚼白兔是吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T07:42:57.000Z",
+        "description": "♡·愛你ちゃん成長日記⁺♡",
+        "id": "2025838696294227968",
+        "name": "凜冬",
+        "pinned_tweet_id": "2034434093933629675",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027609748909256704/xHIVymX5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 73,
+          "following_count": 87,
+          "like_count": 216,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 95
+        },
+        "username": "Xilne_cc",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2046565971796938752",
+        "3_2046565961852215296"
+      ]
+    },
+    "author_id": "2025838696294227968",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2046566017598665116",
+    "created_at": "2026-04-21T12:25:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-21T13:25:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2046566017598665116"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/oB6R2aShFF",
+          "end": 44,
+          "expanded_url": "https://x.com/Xilne_cc/status/2046566017598665116/photo/1",
+          "media_key": "3_2046565971796938752",
+          "start": 21,
+          "url": "https://t.co/oB6R2aShFF"
+        },
+        {
+          "display_url": "pic.x.com/oB6R2aShFF",
+          "end": 44,
+          "expanded_url": "https://x.com/Xilne_cc/status/2046566017598665116/photo/1",
+          "media_key": "3_2046565961852215296",
+          "start": 21,
+          "url": "https://t.co/oB6R2aShFF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046566017598665116",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "分裝了一部分，但這並不是我所有的pr🤤🤤 https://t.co/oB6R2aShFF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2046565971796938752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGbc6H5b0AA4MLy.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2046565961852215296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGbc5i2bYAAUxWw.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046565971796938752",
+            "3_2046565961852215296"
+          ]
+        },
+        "author_id": "2025838696294227968",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2046566017598665116",
+        "created_at": "2026-04-21T12:25:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T13:25:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046566017598665116"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oB6R2aShFF",
+              "end": 44,
+              "expanded_url": "https://x.com/Xilne_cc/status/2046566017598665116/photo/1",
+              "media_key": "3_2046565971796938752",
+              "start": 21,
+              "url": "https://t.co/oB6R2aShFF"
+            },
+            {
+              "display_url": "pic.x.com/oB6R2aShFF",
+              "end": 44,
+              "expanded_url": "https://x.com/Xilne_cc/status/2046566017598665116/photo/1",
+              "media_key": "3_2046565961852215296",
+              "start": 21,
+              "url": "https://t.co/oB6R2aShFF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046566017598665116",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "分裝了一部分，但這並不是我所有的pr🤤🤤 https://t.co/oB6R2aShFF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T07:42:57.000Z",
+        "description": "06‖自伤🔪‖重抑重焦精分‖infp‖查成分互fo‖互fo私信‖bdsm‖缚绳‖未婚夫：@wys250smsb（反正在我結婚之前是不會鼠掉的啦！放心交友，私信一直开放）🚪详情私信‖提问：https://t.co/fyBUnrwbOs",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 44,
+                "username": "wys250smsb"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/lindong67314",
+                "end": 116,
+                "expanded_url": "https://ngl.link/lindong67314",
+                "start": 93,
+                "url": "https://t.co/fyBUnrwbOs"
+              }
+            ]
+          }
+        },
+        "id": "2025838696294227968",
+        "name": "凜冬（千年老王八不死版）",
+        "pinned_tweet_id": "2038929386372759978",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027609748909256704/xHIVymX5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 266,
+          "following_count": 204,
+          "like_count": 1783,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 542
+        },
+        "username": "Xilne_cc",
+        "verified": false
+      }
+    ]
+  }
+}

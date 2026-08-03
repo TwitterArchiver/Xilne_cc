@@ -1,0 +1,107 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2034208513225023488"
+      ]
+    },
+    "author_id": "2025838696294227968",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2034208525401149513",
+    "created_at": "2026-03-18T10:01:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-18T11:01:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2034208525401149513"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ZEwjimidV9",
+          "end": 106,
+          "expanded_url": "https://x.com/Xilne_cc/status/2034208525401149513/photo/1",
+          "media_key": "3_2034208513225023488",
+          "start": 83,
+          "url": "https://t.co/ZEwjimidV9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034208525401149513",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "喜欢凉席（此女看到自己的脂肪会应激，害怕ing）\n晕针我理解，我晕修眉刀是为什么（？晕片的，贝印没买过不知道晕不晕，就是拿在手里就会抖成帕金森然后浑身发软的那种晕） https://t.co/ZEwjimidV9"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2034208525401149513].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2034208525401149513",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2034208525401149513"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2148,
+        "media_key": "3_2034208513225023488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDr13XXaYAA9vNk.jpg",
+        "width": 1294
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T07:42:57.000Z",
+        "description": "♡·愛你ちゃん成長日記⁺♡",
+        "id": "2025838696294227968",
+        "name": "凜冬",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027609748909256704/xHIVymX5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 14,
+          "like_count": 13,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 22
+        },
+        "username": "Xilne_cc",
+        "verified": false
+      }
+    ]
+  }
+}

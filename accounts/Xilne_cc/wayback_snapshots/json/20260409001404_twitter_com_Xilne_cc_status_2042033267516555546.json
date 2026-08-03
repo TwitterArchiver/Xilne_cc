@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2025838696294227968",
+    "conversation_id": "2042033267516555546",
+    "created_at": "2026-04-09T00:14:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T01:14:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042033267516555546"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1638959586140098560",
+          "start": 3,
+          "username": "jiuyouforwhite"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042033267516555546",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 19
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041924579812372655",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @jiuyouforwhite: 17班の致幻晚自习 正式开课！\n本tg群宗旨是：平衡od与生活。\n加入方式：私我领取tg\n内测期间，已经有了40名同学！\n即将抽奖3瓶白兔，转帖评论增加权重哦\n\n无论作为同学还是课代表，这里永远欢迎你，这里有各路老师的嗑药帮助，保障大家学…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1535,
+        "media_key": "3_2041924557595144192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFZfkQma8AADsGD.jpg",
+        "width": 1236
+      },
+      {
+        "height": 1569,
+        "media_key": "3_2041924558614343680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFZfkUZasAALyHx.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025838696294227968",
+        "conversation_id": "2042033267516555546",
+        "created_at": "2026-04-09T00:14:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T01:14:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042033267516555546"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1638959586140098560",
+              "start": 3,
+              "username": "jiuyouforwhite"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042033267516555546",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 19
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041924579812372655",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @jiuyouforwhite: 17班の致幻晚自习 正式开课！\n本tg群宗旨是：平衡od与生活。\n加入方式：私我领取tg\n内测期间，已经有了40名同学！\n即将抽奖3瓶白兔，转帖评论增加权重哦\n\n无论作为同学还是课代表，这里永远欢迎你，这里有各路老师的嗑药帮助，保障大家学…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041924557595144192",
+            "3_2041924558614343680"
+          ]
+        },
+        "author_id": "1638959586140098560",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2041924579812372655",
+        "created_at": "2026-04-08T17:02:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T18:02:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041924579812372655"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zeIgKjMqLg",
+              "end": 174,
+              "expanded_url": "https://x.com/jiuyouforwhite/status/2041924579812372655/photo/1",
+              "media_key": "3_2041924557595144192",
+              "start": 151,
+              "url": "https://t.co/zeIgKjMqLg"
+            },
+            {
+              "display_url": "pic.x.com/zeIgKjMqLg",
+              "end": 174,
+              "expanded_url": "https://x.com/jiuyouforwhite/status/2041924579812372655/photo/1",
+              "media_key": "3_2041924558614343680",
+              "start": 151,
+              "url": "https://t.co/zeIgKjMqLg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041924579812372655",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 692,
+          "like_count": 24,
+          "quote_count": 2,
+          "reply_count": 13,
+          "retweet_count": 19
+        },
+        "reply_settings": "everyone",
+        "text": "17班の致幻晚自习 正式开课！\n本tg群宗旨是：平衡od与生活。\n加入方式：私我领取tg\n内测期间，已经有了40名同学！\n即将抽奖3瓶白兔，转帖评论增加权重哦\n\n无论作为同学还是课代表，这里永远欢迎你，这里有各路老师的嗑药帮助，保障大家学习安全、最高性价比的od\n禁止一切营销、广告行为，违规直接踢。 https://t.co/zeIgKjMqLg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T07:42:57.000Z",
+        "description": "06‖自伤🔪‖od💊‖infp‖查成分互fo‖互fo私信‖bdsm‖缚绳‖未婚夫：@wys250smsb（反正在我結婚之前是不會鼠掉的啦！放心交友，私信一直开放）🚪详情私信‖提问：https://t.co/fyBUnrwbOs",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 41,
+                "username": "wys250smsb"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/lindong67314",
+                "end": 113,
+                "expanded_url": "https://ngl.link/lindong67314",
+                "start": 90,
+                "url": "https://t.co/fyBUnrwbOs"
+              }
+            ]
+          }
+        },
+        "id": "2025838696294227968",
+        "name": "凜冬",
+        "pinned_tweet_id": "2038929386372759978",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027609748909256704/xHIVymX5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 259,
+          "following_count": 190,
+          "like_count": 1690,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 444
+        },
+        "username": "Xilne_cc",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-23T17:43:19.000Z",
+        "description": "反胃or十七/无性别enby/哲思/内心探索/intp/od\n/回fo/免费药理知识帮助\n/Thrillingly pointless",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jiuyouforwhite",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jiuyouforwhite",
+                "start": 0,
+                "url": "https://t.co/70X6nkO8V4"
+              }
+            ]
+          }
+        },
+        "id": "1638959586140098560",
+        "location": "17班の致幻晚自习",
+        "name": "反胃的Sisyphus",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041570538485956609/QSk4pqeb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1055,
+          "following_count": 943,
+          "like_count": 2313,
+          "listed_count": 2,
+          "media_count": 192,
+          "tweet_count": 1375
+        },
+        "url": "https://t.co/70X6nkO8V4",
+        "username": "jiuyouforwhite",
+        "verified": false
+      }
+    ]
+  }
+}

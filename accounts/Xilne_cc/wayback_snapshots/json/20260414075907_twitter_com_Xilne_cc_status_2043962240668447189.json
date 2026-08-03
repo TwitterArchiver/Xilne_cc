@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2025838696294227968",
+    "conversation_id": "2043962240668447189",
+    "created_at": "2026-04-14T07:59:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T08:59:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043962240668447189"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "2014723682548224000",
+          "start": 3,
+          "username": "FanQie_CaoDamn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043962240668447189",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043958326858527142",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @FanQie_CaoDamn: 就是很噁心一下體男 不僅騷擾甚至強健過台灣的未成年蕾蕾 甚至拿那個台灣身份證出來說 要中國的妹子嫁給他 所謂的逃離國家 拜託不要給台灣抹黑好嗎 還是說你全身上下 就只有你媽給你的那張台灣身份證最有價值了？一張證件就拿出來說嘴？ 還特意截出…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 288,
+        "media_key": "3_2043958291466981376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF2ZPJqakAAdqRX.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025838696294227968",
+        "conversation_id": "2043962240668447189",
+        "created_at": "2026-04-14T07:59:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T08:59:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043962240668447189"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "2014723682548224000",
+              "start": 3,
+              "username": "FanQie_CaoDamn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043962240668447189",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043958326858527142",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @FanQie_CaoDamn: 就是很噁心一下體男 不僅騷擾甚至強健過台灣的未成年蕾蕾 甚至拿那個台灣身份證出來說 要中國的妹子嫁給他 所謂的逃離國家 拜託不要給台灣抹黑好嗎 還是說你全身上下 就只有你媽給你的那張台灣身份證最有價值了？一張證件就拿出來說嘴？ 還特意截出…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043958291466981376"
+          ]
+        },
+        "author_id": "2014723682548224000",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2043958326858527142",
+        "created_at": "2026-04-14T07:43:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T08:43:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043958326858527142"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AavyvIiIzJ",
+              "end": 158,
+              "expanded_url": "https://x.com/FanQie_CaoDamn/status/2043958326858527142/photo/1",
+              "media_key": "3_2043958291466981376",
+              "start": 135,
+              "url": "https://t.co/AavyvIiIzJ"
+            },
+            {
+              "display_url": "x.com/chuan_0123/sta…",
+              "end": 182,
+              "expanded_url": "https://twitter.com/chuan_0123/status/2043430066659733750",
+              "start": 159,
+              "url": "https://t.co/DBMrtGVcab"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043958326858527142",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "就是很噁心一下體男 不僅騷擾甚至強健過台灣的未成年蕾蕾 甚至拿那個台灣身份證出來說 要中國的妹子嫁給他 所謂的逃離國家 拜託不要給台灣抹黑好嗎 還是說你全身上下 就只有你媽給你的那張台灣身份證最有價值了？一張證件就拿出來說嘴？ 還特意截出來這張聊天記錄 你的用意在哪？ 不會覺得我會吃你的醋吧www嚇哭了呀大叔叔 你知道嗎~你死到臨頭了喲～ 還不吞藥自莎嗎www 放心好啦 這次我不會再阻止你了w～"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 113,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043430066659733750",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "就是很噁心一下體男 不僅騷擾甚至強健過台灣的未成年蕾蕾 甚至拿那個台灣身份證出來說 要中國的妹子嫁給他 所謂的逃離國家 拜託不要給台灣抹黑好嗎 還是說你全身上下 就只有你媽給你的那張台灣身份證最有價值了？一張證件就拿出來說嘴？ 還特意截出來這張聊天記錄 你的用意在哪？ https://t.co/AavyvIiIzJ https://t.co/DBMrtGVcab"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T07:42:57.000Z",
+        "description": "06‖自伤🔪‖重抑重焦精分‖infp‖查成分互fo‖互fo私信‖bdsm‖缚绳‖未婚夫：@wys250smsb（反正在我結婚之前是不會鼠掉的啦！放心交友，私信一直开放）🚪详情私信‖提问：https://t.co/fyBUnrwbOs",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 44,
+                "username": "wys250smsb"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/lindong67314",
+                "end": 116,
+                "expanded_url": "https://ngl.link/lindong67314",
+                "start": 93,
+                "url": "https://t.co/fyBUnrwbOs"
+              }
+            ]
+          }
+        },
+        "id": "2025838696294227968",
+        "name": "凜冬",
+        "pinned_tweet_id": "2038929386372759978",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027609748909256704/xHIVymX5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 262,
+          "following_count": 196,
+          "like_count": 1720,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 450
+        },
+        "username": "Xilne_cc",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-23T15:35:47.000Z",
+        "description": "11年 順女  LGBTQ全友好   查成分 藍v互關 會亂追人（？）\n彼女 @puppysub0816",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 39,
+                "username": "puppysub0816"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/_tomato._.fanq…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/_tomato._.fanqie_",
+                "start": 0,
+                "url": "https://t.co/76AbZG7YzL"
+              }
+            ]
+          }
+        },
+        "id": "2014723682548224000",
+        "location": "🚪",
+        "name": "番茄操蛋5.0",
+        "pinned_tweet_id": "2027179646979334157",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041245441946513408/rP371w0K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1564,
+          "following_count": 686,
+          "like_count": 8999,
+          "listed_count": 0,
+          "media_count": 153,
+          "tweet_count": 3192
+        },
+        "url": "https://t.co/76AbZG7YzL",
+        "username": "FanQie_CaoDamn",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2025838696294227968",
+    "conversation_id": "2040382809634906524",
+    "created_at": "2026-04-04T17:19:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-04T18:19:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040479295412531457"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "74602102",
+          "start": 0,
+          "username": "chrisralph21"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040479295412531457",
+    "in_reply_to_user_id": "74602102",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040465243240120692",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chrisralph21 好哦！🉑🉑🉑🉑，其实没想过嗑完白兔会这么嗨，简直把白兔在当媚药来用啊……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025838696294227968",
+        "conversation_id": "2040382809634906524",
+        "created_at": "2026-04-04T17:19:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T18:19:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040479295412531457"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "74602102",
+              "start": 0,
+              "username": "chrisralph21"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040479295412531457",
+        "in_reply_to_user_id": "74602102",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040465243240120692",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chrisralph21 好哦！🉑🉑🉑🉑，其实没想过嗑完白兔会这么嗨，简直把白兔在当媚药来用啊……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "74602102",
+        "conversation_id": "2040382809634906524",
+        "created_at": "2026-04-04T16:23:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T17:23:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040465243240120692"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2025838696294227968",
+              "start": 0,
+              "username": "Xilne_cc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040465243240120692",
+        "in_reply_to_user_id": "2025838696294227968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040382809634906524",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xilne_cc 宝宝下次开房可以备尿垫"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T07:42:57.000Z",
+        "description": "06‖自伤‖oder‖infp‖查成分互fo‖互fo私信‖bdsm‖缚绳‖未婚夫：@wys250smsb（反正在我結婚之前是不會鼠掉的啦！放心交友，私信一直开放）🚪详情私信‖提问：https://t.co/fyBUnrwbOs",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 41,
+                "username": "wys250smsb"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/lindong67314",
+                "end": 113,
+                "expanded_url": "https://ngl.link/lindong67314",
+                "start": 90,
+                "url": "https://t.co/fyBUnrwbOs"
+              }
+            ]
+          }
+        },
+        "id": "2025838696294227968",
+        "name": "凜冬",
+        "pinned_tweet_id": "2038929386372759978",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027609748909256704/xHIVymX5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 236,
+          "following_count": 176,
+          "like_count": 1503,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 338
+        },
+        "username": "Xilne_cc",
+        "verified": false
+      },
+      {
+        "created_at": "2009-09-16T00:18:29.000Z",
+        "description": "真女可报时验证 私信询问超过三句不回",
+        "id": "74602102",
+        "location": "New Jersey U.S.",
+        "name": "萋",
+        "pinned_tweet_id": "2040056441390985551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040058619232997376/a3UBGTlr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 121,
+          "following_count": 12,
+          "like_count": 25,
+          "listed_count": 1,
+          "media_count": 2,
+          "tweet_count": 6
+        },
+        "username": "chrisralph21",
+        "verified": false
+      }
+    ]
+  }
+}

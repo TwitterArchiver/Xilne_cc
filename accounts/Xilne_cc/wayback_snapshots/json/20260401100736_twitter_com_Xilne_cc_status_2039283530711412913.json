@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2025838696294227968",
+    "conversation_id": "2038878486748971146",
+    "created_at": "2026-04-01T10:07:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-01T11:07:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039283530711412913"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2020856301732216832",
+          "start": 0,
+          "username": "LeoChew_"
+        },
+        {
+          "end": 22,
+          "id": "1898020512929894400",
+          "start": 10,
+          "username": "Luka710Luka"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039283530711412913",
+    "in_reply_to_user_id": "2020856301732216832",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039267778990055643",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LeoChew_ @Luka710Luka 好好好，又让这个蠢货学到了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025838696294227968",
+        "conversation_id": "2038878486748971146",
+        "created_at": "2026-04-01T10:07:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T11:07:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039283530711412913"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2020856301732216832",
+              "start": 0,
+              "username": "LeoChew_"
+            },
+            {
+              "end": 22,
+              "id": "1898020512929894400",
+              "start": 10,
+              "username": "Luka710Luka"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039283530711412913",
+        "in_reply_to_user_id": "2020856301732216832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039267778990055643",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LeoChew_ @Luka710Luka 好好好，又让这个蠢货学到了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2020856301732216832",
+        "conversation_id": "2038878486748971146",
+        "created_at": "2026-04-01T09:05:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T10:05:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039267778990055643"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1898020512929894400",
+              "start": 0,
+              "username": "Luka710Luka"
+            },
+            {
+              "end": 22,
+              "id": "2025838696294227968",
+              "start": 13,
+              "username": "Xilne_cc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039267778990055643",
+        "in_reply_to_user_id": "1898020512929894400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038973853544894557",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Luka710Luka @Xilne_cc 列管！列管！不是管列！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T07:42:57.000Z",
+        "description": "♡·愛你ちゃん成長日記⁺♡\n未婚夫：@wys250smsb（反正在我結婚之前是不會鼠掉的啦！放心交友）\nhttps://t.co/fyBUnrwbOs",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 18,
+                "username": "wys250smsb"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/lindong67314",
+                "end": 75,
+                "expanded_url": "https://ngl.link/lindong67314",
+                "start": 52,
+                "url": "https://t.co/fyBUnrwbOs"
+              }
+            ]
+          }
+        },
+        "id": "2025838696294227968",
+        "name": "凜冬",
+        "pinned_tweet_id": "2034434093933629675",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027609748909256704/xHIVymX5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 174,
+          "following_count": 158,
+          "like_count": 1278,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 289
+        },
+        "username": "Xilne_cc",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-09T13:44:39.000Z",
+        "description": "男/INFP/重抑中焦/没休学/长假分子/\n素质不详/记忆力不好/看成分回fo哈/\n晶哥求你了别加书签了我不在国内😭\n（En/繁中）",
+        "id": "2020856301732216832",
+        "location": "Singapore",
+        "name": "Chew",
+        "pinned_tweet_id": "2036427234995740719",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033485710666391552/Nhxutggh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 31,
+          "like_count": 72,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 132
+        },
+        "username": "LeoChew_",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-07T14:39:06.000Z",
+        "description": "",
+        "id": "1898020512929894400",
+        "name": "心情很死妈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1934165548650426368/qHk3M9Xi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 24,
+          "like_count": 180,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 34
+        },
+        "username": "Luka710Luka",
+        "verified": false
+      }
+    ]
+  }
+}

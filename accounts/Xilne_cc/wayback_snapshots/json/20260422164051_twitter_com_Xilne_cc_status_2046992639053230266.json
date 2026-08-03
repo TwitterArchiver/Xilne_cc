@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2046992626168340480"
+      ]
+    },
+    "author_id": "2025838696294227968",
+    "conversation_id": "2046992639053230266",
+    "created_at": "2026-04-22T16:40:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-22T17:40:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2046992639053230266"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Dvn9LCVkVK",
+          "end": 35,
+          "expanded_url": "https://x.com/Xilne_cc/status/2046992639053230266/photo/1",
+          "media_key": "3_2046992626168340480",
+          "start": 12,
+          "url": "https://t.co/Dvn9LCVkVK"
+        },
+        {
+          "display_url": "x.com/youy1qwq/statu…",
+          "end": 59,
+          "expanded_url": "https://twitter.com/youy1qwq/status/2046937072951562591",
+          "start": 36,
+          "url": "https://t.co/WrEYvATfzZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046992639053230266",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046937072951562591",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "保護dxm大人從我做起 https://t.co/Dvn9LCVkVK https://t.co/WrEYvATfzZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2228,
+        "media_key": "3_2046992626168340480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGhg8rSboAA-5p_.jpg",
+        "width": 1256
+      },
+      {
+        "height": 2020,
+        "media_key": "3_2046842264001843200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGfYMckWEAAOJcT.jpg",
+        "width": 1034
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046992626168340480"
+          ]
+        },
+        "author_id": "2025838696294227968",
+        "conversation_id": "2046992639053230266",
+        "created_at": "2026-04-22T16:40:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T17:40:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046992639053230266"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Dvn9LCVkVK",
+              "end": 35,
+              "expanded_url": "https://x.com/Xilne_cc/status/2046992639053230266/photo/1",
+              "media_key": "3_2046992626168340480",
+              "start": 12,
+              "url": "https://t.co/Dvn9LCVkVK"
+            },
+            {
+              "display_url": "x.com/youy1qwq/statu…",
+              "end": 59,
+              "expanded_url": "https://twitter.com/youy1qwq/status/2046937072951562591",
+              "start": 36,
+              "url": "https://t.co/WrEYvATfzZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046992639053230266",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046937072951562591",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "保護dxm大人從我做起 https://t.co/Dvn9LCVkVK https://t.co/WrEYvATfzZ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046842264001843200"
+          ]
+        },
+        "author_id": "2012631283898187776",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2046937072951562591",
+        "created_at": "2026-04-22T13:00:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T14:00:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046937072951562591"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sqLQawz4i5",
+              "end": 28,
+              "expanded_url": "https://x.com/youy1qwq/status/2046937072951562591/photo/1",
+              "media_key": "3_2046842264001843200",
+              "start": 5,
+              "url": "https://t.co/sqLQawz4i5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046937072951562591",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 46412,
+          "like_count": 298,
+          "quote_count": 0,
+          "reply_count": 19,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "顶级智斗 https://t.co/sqLQawz4i5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T07:42:57.000Z",
+        "description": "06‖自伤🔪‖重抑重焦精分‖infp‖查成分互fo‖互fo私信‖bdsm‖缚绳‖未婚夫：@wys250smsb（反正在我結婚之前是不會鼠掉的啦！放心交友，私信一直开放）🚪详情私信‖提问：https://t.co/fyBUnrwbOs",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 44,
+                "username": "wys250smsb"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/lindong67314",
+                "end": 116,
+                "expanded_url": "https://ngl.link/lindong67314",
+                "start": 93,
+                "url": "https://t.co/fyBUnrwbOs"
+              }
+            ]
+          }
+        },
+        "id": "2025838696294227968",
+        "name": "凜冬（千年老王八不死版）",
+        "pinned_tweet_id": "2038929386372759978",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027609748909256704/xHIVymX5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 287,
+          "following_count": 213,
+          "like_count": 1807,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 565
+        },
+        "username": "Xilne_cc",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "pinned_tweet_id": "2020120359257665781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11001,
+          "following_count": 1613,
+          "like_count": 3820,
+          "listed_count": 16,
+          "media_count": 1468,
+          "tweet_count": 1950
+        },
+        "username": "youy1qwq",
+        "verified": true
+      }
+    ]
+  }
+}

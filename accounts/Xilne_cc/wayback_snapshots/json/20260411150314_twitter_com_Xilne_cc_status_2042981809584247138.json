@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2042981792215658496"
+      ]
+    },
+    "author_id": "2025838696294227968",
+    "conversation_id": "2042663450250481806",
+    "created_at": "2026-04-11T15:03:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T16:03:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042981809584247138"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1266316422428258311",
+          "start": 0,
+          "username": "mania_chan_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/jrBk1RIVHG",
+          "end": 54,
+          "expanded_url": "https://x.com/Xilne_cc/status/2042981809584247138/photo/1",
+          "media_key": "3_2042981792215658496",
+          "start": 31,
+          "url": "https://t.co/jrBk1RIVHG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042981809584247138",
+    "in_reply_to_user_id": "1266316422428258311",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042663450250481806",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mania_chan_ 我觉得古瓷还可以，有段时间一直在抽 https://t.co/jrBk1RIVHG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1600,
+        "media_key": "3_2042981792215658496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFohHaea8AA-MlA.jpg",
+        "width": 900
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042981792215658496"
+          ]
+        },
+        "author_id": "2025838696294227968",
+        "conversation_id": "2042663450250481806",
+        "created_at": "2026-04-11T15:03:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T16:03:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042981809584247138"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1266316422428258311",
+              "start": 0,
+              "username": "mania_chan_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jrBk1RIVHG",
+              "end": 54,
+              "expanded_url": "https://x.com/Xilne_cc/status/2042981809584247138/photo/1",
+              "media_key": "3_2042981792215658496",
+              "start": 31,
+              "url": "https://t.co/jrBk1RIVHG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042981809584247138",
+        "in_reply_to_user_id": "1266316422428258311",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042663450250481806",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mania_chan_ 我觉得古瓷还可以，有段时间一直在抽 https://t.co/jrBk1RIVHG"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1266316422428258311",
+        "conversation_id": "2042663450250481806",
+        "created_at": "2026-04-10T17:58:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T18:58:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042663450250481806"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2042663450250481806",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 545,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "求安利薄荷烟，中南海爆珠抽腻了，外烟暂时不想买，国烟有什么淡点的好抽的吗\n没有的话博主就继续抽百乐酸奶味了😋\n这几天电子烟抽多了胃有点难受"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T07:42:57.000Z",
+        "description": "06‖自伤🔪‖od💊‖infp‖查成分互fo‖互fo私信‖bdsm‖缚绳‖未婚夫：@wys250smsb（反正在我結婚之前是不會鼠掉的啦！放心交友，私信一直开放）🚪详情私信‖提问：https://t.co/fyBUnrwbOs",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 41,
+                "username": "wys250smsb"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/lindong67314",
+                "end": 113,
+                "expanded_url": "https://ngl.link/lindong67314",
+                "start": 90,
+                "url": "https://t.co/fyBUnrwbOs"
+              }
+            ]
+          }
+        },
+        "id": "2025838696294227968",
+        "name": "凜冬",
+        "pinned_tweet_id": "2038929386372759978",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027609748909256704/xHIVymX5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 259,
+          "following_count": 187,
+          "like_count": 1690,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 422
+        },
+        "username": "Xilne_cc",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-29T10:32:25.000Z",
+        "description": "🇨🇳\n中文/English/Français\n✍🏻Writer/🎶Composer\n🟦Asexual/Gender-neutral\n💊od/selfharm_cutting/psy\n✝️Christian",
+        "id": "1266316422428258311",
+        "location": "Heaven",
+        "name": "Licentious_Chirp_肆鳴_",
+        "pinned_tweet_id": "2024013576336212268",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912137423183601666/Zh4Y8PXi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 201,
+          "following_count": 233,
+          "like_count": 3134,
+          "listed_count": 2,
+          "media_count": 535,
+          "tweet_count": 1938
+        },
+        "username": "mania_chan_",
+        "verified": false
+      }
+    ]
+  }
+}

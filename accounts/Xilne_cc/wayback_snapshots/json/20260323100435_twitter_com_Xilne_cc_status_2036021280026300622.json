@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2036021276553445376",
+        "3_2036021276410789888"
+      ]
+    },
+    "author_id": "2025838696294227968",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2036021280026300622",
+    "created_at": "2026-03-23T10:04:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-23T11:04:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2036021280026300622"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/FNDmeeYetk",
+          "end": 32,
+          "expanded_url": "https://x.com/Xilne_cc/status/2036021280026300622/photo/1",
+          "media_key": "3_2036021276553445376",
+          "start": 9,
+          "url": "https://t.co/FNDmeeYetk"
+        },
+        {
+          "display_url": "pic.x.com/FNDmeeYetk",
+          "end": 32,
+          "expanded_url": "https://x.com/Xilne_cc/status/2036021280026300622/photo/1",
+          "media_key": "3_2036021276410789888",
+          "start": 9,
+          "url": "https://t.co/FNDmeeYetk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036021280026300622",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "好漂亮的小蓝胶囊 https://t.co/FNDmeeYetk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2036021276553445376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEFmkFAbAAAqEqS.jpg",
+        "width": 1920
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2036021276410789888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEFmkEeaQAA7swO.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2036021276553445376",
+            "3_2036021276410789888"
+          ]
+        },
+        "author_id": "2025838696294227968",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2036021280026300622",
+        "created_at": "2026-03-23T10:04:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T11:04:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036021280026300622"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FNDmeeYetk",
+              "end": 32,
+              "expanded_url": "https://x.com/Xilne_cc/status/2036021280026300622/photo/1",
+              "media_key": "3_2036021276553445376",
+              "start": 9,
+              "url": "https://t.co/FNDmeeYetk"
+            },
+            {
+              "display_url": "pic.x.com/FNDmeeYetk",
+              "end": 32,
+              "expanded_url": "https://x.com/Xilne_cc/status/2036021280026300622/photo/1",
+              "media_key": "3_2036021276410789888",
+              "start": 9,
+              "url": "https://t.co/FNDmeeYetk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036021280026300622",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好漂亮的小蓝胶囊 https://t.co/FNDmeeYetk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T07:42:57.000Z",
+        "description": "♡·愛你ちゃん成長日記⁺♡\nhttps://t.co/fyBUnrwbOs",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lindong67314",
+                "end": 37,
+                "expanded_url": "https://ngl.link/lindong67314",
+                "start": 14,
+                "url": "https://t.co/fyBUnrwbOs"
+              }
+            ]
+          }
+        },
+        "id": "2025838696294227968",
+        "name": "凜冬",
+        "pinned_tweet_id": "2034434093933629675",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027609748909256704/xHIVymX5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80,
+          "following_count": 97,
+          "like_count": 581,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 130
+        },
+        "username": "Xilne_cc",
+        "verified": false
+      }
+    ]
+  }
+}

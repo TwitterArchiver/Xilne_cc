@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2025838696294227968",
+    "conversation_id": "2043684958900986361",
+    "created_at": "2026-04-13T13:37:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T14:37:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043684958900986361"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1867035438051131393",
+          "start": 3,
+          "username": "Iwilldieyoutoo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043684958900986361",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 34
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043640526218399986",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Iwilldieyoutoo: 我去105fo了，我将开抽奖，如果没人抽我将假装什么都没发生然后删掉帖子\n奖品👇\n一等奖：愈美片三盒（折现35）\n二等奖：普瑞胶囊两盒（折现30）\n三等奖：200ml斯米诺伏特加一支（折现28）\n各抽一个人，会用口令红包的方式兑换喵😽\n转…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025838696294227968",
+        "conversation_id": "2043684958900986361",
+        "created_at": "2026-04-13T13:37:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T14:37:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043684958900986361"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1867035438051131393",
+              "start": 3,
+              "username": "Iwilldieyoutoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043684958900986361",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 34
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043640526218399986",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Iwilldieyoutoo: 我去105fo了，我将开抽奖，如果没人抽我将假装什么都没发生然后删掉帖子\n奖品👇\n一等奖：愈美片三盒（折现35）\n二等奖：普瑞胶囊两盒（折现30）\n三等奖：200ml斯米诺伏特加一支（折现28）\n各抽一个人，会用口令红包的方式兑换喵😽\n转…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1867035438051131393",
+        "conversation_id": "2043640526218399986",
+        "created_at": "2026-04-13T10:40:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T11:40:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043640526218399986"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2043640526218399986",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1130,
+          "like_count": 53,
+          "quote_count": 0,
+          "reply_count": 32,
+          "retweet_count": 34
+        },
+        "reply_settings": "everyone",
+        "text": "我去105fo了，我将开抽奖，如果没人抽我将假装什么都没发生然后删掉帖子\n奖品👇\n一等奖：愈美片三盒（折现35）\n二等奖：普瑞胶囊两盒（折现30）\n三等奖：200ml斯米诺伏特加一支（折现28）\n各抽一个人，会用口令红包的方式兑换喵😽\n转帖+评论+赞+关注参与\n4.14日晚7：30到8：00左右开奖"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T07:42:57.000Z",
+        "description": "06‖自伤🔪‖od💊‖infp‖查成分互fo‖互fo私信‖bdsm‖缚绳‖未婚夫：@wys250smsb（反正在我結婚之前是不會鼠掉的啦！放心交友，私信一直开放）🚪详情私信‖提问：https://t.co/fyBUnrwbOs",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 41,
+                "username": "wys250smsb"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/lindong67314",
+                "end": 113,
+                "expanded_url": "https://ngl.link/lindong67314",
+                "start": 90,
+                "url": "https://t.co/fyBUnrwbOs"
+              }
+            ]
+          }
+        },
+        "id": "2025838696294227968",
+        "name": "凜冬",
+        "pinned_tweet_id": "2038929386372759978",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027609748909256704/xHIVymX5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 264,
+          "following_count": 198,
+          "like_count": 1713,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 441
+        },
+        "username": "Xilne_cc",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-12T02:35:24.000Z",
+        "description": "顺女泛性恋 // ✝精品神药滥用✝ // adhd // 会回fo但是会比较慢大概一到三天 // 🚪52解锁qq好友位 // 只收口令红包喵 // 周末不怎么上X可能错过口令请见谅 // 四叶草是幸运十叶草是螺旋桨带我升天 // 生日9.28求一个生日那天给我爆金币的好心人😢",
+        "id": "1867035438051131393",
+        "name": "十字草草",
+        "pinned_tweet_id": "2043640526218399986",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010682131769663488/N8kFV-tv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 139,
+          "following_count": 208,
+          "like_count": 4875,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 821
+        },
+        "username": "Iwilldieyoutoo",
+        "verified": false
+      }
+    ]
+  }
+}

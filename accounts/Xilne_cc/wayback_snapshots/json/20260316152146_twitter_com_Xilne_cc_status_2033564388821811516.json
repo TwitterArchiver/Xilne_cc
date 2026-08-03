@@ -1,0 +1,92 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2025838696294227968",
+    "conversation_id": "2033564388821811516",
+    "created_at": "2026-03-16T15:21:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-16T16:21:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2033564388821811516"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2033564388821811516",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "為什麼不理我為什麼不理我為什麼不接受我的熱情為什麼不想回我的消息啊餵！我只喜歡你了呀！為什麼要讓已經變成小苦瓜的我更痛苦啊！好痛嗚嗚想o……但是估計不會o愈美了，噁心的東西！噁心！噁心！噁心的東西！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025838696294227968",
+        "conversation_id": "2033564388821811516",
+        "created_at": "2026-03-16T15:21:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T16:21:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033564388821811516"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2033564388821811516",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "為什麼不理我為什麼不理我為什麼不接受我的熱情為什麼不想回我的消息啊餵！我只喜歡你了呀！為什麼要讓已經變成小苦瓜的我更痛苦啊！好痛嗚嗚想o……但是估計不會o愈美了，噁心的東西！噁心！噁心！噁心的東西！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T07:42:57.000Z",
+        "description": "♡·愛你ちゃん成長日記⁺♡",
+        "id": "2025838696294227968",
+        "name": "凜冬",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027609748909256704/xHIVymX5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 4,
+          "like_count": 4,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 5
+        },
+        "username": "Xilne_cc",
+        "verified": false
+      }
+    ]
+  }
+}

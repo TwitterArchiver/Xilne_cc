@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2025838696294227968",
+    "conversation_id": "2040351994670666033",
+    "created_at": "2026-04-04T08:53:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-04T09:53:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2040351994670666033"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Xilne_cc/statu…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/Xilne_cc/status/2040320182904906137",
+          "start": 5,
+          "url": "https://t.co/JW4f7mVyFG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040351994670666033",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040320182904906137",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "补42t https://t.co/JW4f7mVyFG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2040320173362790400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFCsYzlaQAA9Mno.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025838696294227968",
+        "conversation_id": "2040351994670666033",
+        "created_at": "2026-04-04T08:53:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T09:53:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040351994670666033"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Xilne_cc/statu…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/Xilne_cc/status/2040320182904906137",
+              "start": 5,
+              "url": "https://t.co/JW4f7mVyFG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040351994670666033",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040320182904906137",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "补42t https://t.co/JW4f7mVyFG"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2040320173362790400"
+          ]
+        },
+        "author_id": "2025838696294227968",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2040320182904906137",
+        "created_at": "2026-04-04T06:46:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T07:46:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040320182904906137"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QtjDNHw0hz",
+              "end": 29,
+              "expanded_url": "https://x.com/Xilne_cc/status/2040320182904906137/photo/1",
+              "media_key": "3_2040320173362790400",
+              "start": 6,
+              "url": "https://t.co/QtjDNHw0hz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040320182904906137",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 102,
+          "like_count": 8,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "42t白兔 https://t.co/QtjDNHw0hz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T07:42:57.000Z",
+        "description": "06‖自伤‖oder‖infp‖查成分互fo‖互fo私信‖bdsm‖缚绳‖未婚夫：@wys250smsb（反正在我結婚之前是不會鼠掉的啦！放心交友，私信一直开放）🚪详情私信‖提问：https://t.co/fyBUnrwbOs",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 41,
+                "username": "wys250smsb"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/lindong67314",
+                "end": 113,
+                "expanded_url": "https://ngl.link/lindong67314",
+                "start": 90,
+                "url": "https://t.co/fyBUnrwbOs"
+              }
+            ]
+          }
+        },
+        "id": "2025838696294227968",
+        "name": "凜冬",
+        "pinned_tweet_id": "2038929386372759978",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027609748909256704/xHIVymX5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 240,
+          "following_count": 178,
+          "like_count": 1453,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 322
+        },
+        "username": "Xilne_cc",
+        "verified": false
+      }
+    ]
+  }
+}

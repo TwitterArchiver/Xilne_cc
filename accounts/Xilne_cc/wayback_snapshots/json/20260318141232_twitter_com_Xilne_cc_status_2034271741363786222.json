@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2034198532568252416"
+      ],
+      "media_source_tweet_id": [
+        "2034198548275990826"
+      ]
+    },
+    "author_id": "2025838696294227968",
+    "conversation_id": "2034271741363786222",
+    "created_at": "2026-03-18T14:12:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-18T15:12:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034271741363786222"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1831328988960034816",
+          "start": 3,
+          "username": "55ghcgxc"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/w9rEfwMAOf",
+          "end": 99,
+          "expanded_url": "https://x.com/55ghcgxc/status/2034198548275990826/photo/1",
+          "media_key": "3_2034198532568252416",
+          "start": 76,
+          "url": "https://t.co/w9rEfwMAOf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034271741363786222",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034198548275990826",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @55ghcgxc: 50fo了！感谢大家支持🥺🥺🫶\n我想认识更多的餐券妹或者神人小众逼，大家可以帮我一下吗（哦内盖），随机抽一个人送两盒玉米片 https://t.co/w9rEfwMAOf"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2034271741363786222].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2034271741363786222",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2034271741363786222"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1050,
+        "media_key": "3_2034198532568252416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDrsyahaAAALhRY.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2034198532568252416"
+          ]
+        },
+        "author_id": "1831328988960034816",
+        "conversation_id": "2034198548275990826",
+        "created_at": "2026-03-18T09:21:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-18T10:21:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034198548275990826"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/w9rEfwMAOf",
+              "end": 85,
+              "expanded_url": "https://x.com/55ghcgxc/status/2034198548275990826/photo/1",
+              "media_key": "3_2034198532568252416",
+              "start": 62,
+              "url": "https://t.co/w9rEfwMAOf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034198548275990826",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 344,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "50fo了！感谢大家支持🥺🥺🫶\n我想认识更多的餐券妹或者神人小众逼，大家可以帮我一下吗（哦内盖），随机抽一个人送两盒玉米片 https://t.co/w9rEfwMAOf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T07:42:57.000Z",
+        "description": "♡·愛你ちゃん成長日記⁺♡",
+        "id": "2025838696294227968",
+        "name": "凜冬",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027609748909256704/xHIVymX5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 25,
+          "like_count": 43,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 29
+        },
+        "username": "Xilne_cc",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-04T13:50:51.000Z",
+        "description": "女的｜08辍学精神病｜抽烟喝酒od割手｜想发什么就发什么少对别人指指点点｜",
+        "id": "1831328988960034816",
+        "name": "如果把表面的爱称作爱的话",
+        "pinned_tweet_id": "2031454610016370865",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991562214021758977/qdM_ok-B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64,
+          "following_count": 186,
+          "like_count": 633,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 206
+        },
+        "username": "55ghcgxc",
+        "verified": false
+      }
+    ]
+  }
+}

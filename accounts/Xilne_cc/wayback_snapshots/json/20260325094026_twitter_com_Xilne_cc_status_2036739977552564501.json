@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2025838696294227968",
+    "conversation_id": "2036739977552564501",
+    "created_at": "2026-03-25T09:40:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-25T10:40:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036739977552564501"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1599377355503726592",
+          "start": 3,
+          "username": "bloodmeiii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036739977552564501",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036620546369356126",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bloodmeiii: 我丢掉了，愈美片，我丢掉了，普瑞巴林，我丢掉了美金刚，我丢掉了，咳必清，苯海索，我丢掉了，红贝印，我丢掉了，眉刀，我丢掉了，手术刀从此走向健全之路"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025838696294227968",
+        "conversation_id": "2036739977552564501",
+        "created_at": "2026-03-25T09:40:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T10:40:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036739977552564501"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1599377355503726592",
+              "start": 3,
+              "username": "bloodmeiii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036739977552564501",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036620546369356126",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @bloodmeiii: 我丢掉了，愈美片，我丢掉了，普瑞巴林，我丢掉了美金刚，我丢掉了，咳必清，苯海索，我丢掉了，红贝印，我丢掉了，眉刀，我丢掉了，手术刀从此走向健全之路"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1599377355503726592",
+        "conversation_id": "2036620546369356126",
+        "created_at": "2026-03-25T01:45:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T02:45:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036620546369356126"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2036620546369356126",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 503,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "我丢掉了，愈美片，我丢掉了，普瑞巴林，我丢掉了美金刚，我丢掉了，咳必清，苯海索，我丢掉了，红贝印，我丢掉了，眉刀，我丢掉了，手术刀从此走向健全之路"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T07:42:57.000Z",
+        "description": "♡·愛你ちゃん成長日記⁺♡\nhttps://t.co/fyBUnrwbOs",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lindong67314",
+                "end": 37,
+                "expanded_url": "https://ngl.link/lindong67314",
+                "start": 14,
+                "url": "https://t.co/fyBUnrwbOs"
+              }
+            ]
+          }
+        },
+        "id": "2025838696294227968",
+        "name": "凜冬",
+        "pinned_tweet_id": "2034434093933629675",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027609748909256704/xHIVymX5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 103,
+          "following_count": 101,
+          "like_count": 940,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 134
+        },
+        "username": "Xilne_cc",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-04T12:17:45.000Z",
+        "description": "🍓莓mei\n07｜重抑中焦神经性贪食\n休学中｜我o我割我吐\n只回fo同类 🚪50\n我的存在本身就无意义",
+        "id": "1599377355503726592",
+        "name": "meiii",
+        "pinned_tweet_id": "2035325464471044216",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036098917797085184/9CsP6fu1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 344,
+          "following_count": 326,
+          "like_count": 690,
+          "listed_count": 0,
+          "media_count": 106,
+          "tweet_count": 924
+        },
+        "username": "bloodmeiii",
+        "verified": false
+      }
+    ]
+  }
+}

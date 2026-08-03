@@ -1,0 +1,305 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2045402508126978048",
+        "3_2045402508332523520"
+      ]
+    },
+    "author_id": "2025838696294227968",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2045213380697571405",
+    "created_at": "2026-04-18T07:22:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-18T08:22:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045402518499504535"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1947850335760093187",
+          "start": 0,
+          "username": "Allen9727760773"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/CqB8PdGnDY",
+          "end": 60,
+          "expanded_url": "https://x.com/Xilne_cc/status/2045402518499504535/photo/1",
+          "media_key": "3_2045402508126978048",
+          "start": 37,
+          "url": "https://t.co/CqB8PdGnDY"
+        },
+        {
+          "display_url": "pic.x.com/CqB8PdGnDY",
+          "end": 60,
+          "expanded_url": "https://x.com/Xilne_cc/status/2045402518499504535/photo/1",
+          "media_key": "3_2045402508332523520",
+          "start": 37,
+          "url": "https://t.co/CqB8PdGnDY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045402518499504535",
+    "in_reply_to_user_id": "1947850335760093187",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045363457483321464",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Allen9727760773 是的是的是的是的！！！！我之前买了一条 https://t.co/CqB8PdGnDY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2045402508126978048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGK6vn-aAAALp1Y.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2045402508332523520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGK6vovaYAAwZEx.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045402508126978048",
+            "3_2045402508332523520"
+          ]
+        },
+        "author_id": "2025838696294227968",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2045213380697571405",
+        "created_at": "2026-04-18T07:22:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T08:22:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045402518499504535"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1947850335760093187",
+              "start": 0,
+              "username": "Allen9727760773"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CqB8PdGnDY",
+              "end": 60,
+              "expanded_url": "https://x.com/Xilne_cc/status/2045402518499504535/photo/1",
+              "media_key": "3_2045402508126978048",
+              "start": 37,
+              "url": "https://t.co/CqB8PdGnDY"
+            },
+            {
+              "display_url": "pic.x.com/CqB8PdGnDY",
+              "end": 60,
+              "expanded_url": "https://x.com/Xilne_cc/status/2045402518499504535/photo/1",
+              "media_key": "3_2045402508332523520",
+              "start": 37,
+              "url": "https://t.co/CqB8PdGnDY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045402518499504535",
+        "in_reply_to_user_id": "1947850335760093187",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045363457483321464",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Allen9727760773 是的是的是的是的！！！！我之前买了一条 https://t.co/CqB8PdGnDY"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1947850335760093187",
+        "conversation_id": "2045213380697571405",
+        "created_at": "2026-04-18T04:47:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T05:47:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045363457483321464"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2025838696294227968",
+              "start": 0,
+              "username": "Xilne_cc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045363457483321464",
+        "in_reply_to_user_id": "2025838696294227968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045213380697571405",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xilne_cc 那个草莓烟夯爆了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T07:42:57.000Z",
+        "description": "06‖自伤🔪‖重抑重焦精分‖infp‖查成分互fo‖互fo私信‖bdsm‖缚绳‖未婚夫：@wys250smsb（反正在我結婚之前是不會鼠掉的啦！放心交友，私信一直开放）🚪详情私信‖提问：https://t.co/fyBUnrwbOs",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 44,
+                "username": "wys250smsb"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/lindong67314",
+                "end": 116,
+                "expanded_url": "https://ngl.link/lindong67314",
+                "start": 93,
+                "url": "https://t.co/fyBUnrwbOs"
+              }
+            ]
+          }
+        },
+        "id": "2025838696294227968",
+        "name": "凜冬（千年老王八不死版）",
+        "pinned_tweet_id": "2038929386372759978",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027609748909256704/xHIVymX5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 261,
+          "following_count": 197,
+          "like_count": 1754,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 494
+        },
+        "username": "Xilne_cc",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-23T02:44:57.000Z",
+        "description": "",
+        "id": "1947850335760093187",
+        "name": "王Allen",
+        "pinned_tweet_id": "2035335043586134510",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947850392127344640/G68OC7Yf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 104,
+          "like_count": 103,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 229
+        },
+        "username": "Allen9727760773",
+        "verified": false
+      }
+    ]
+  }
+}

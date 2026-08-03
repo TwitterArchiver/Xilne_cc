@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2025838696294227968",
+    "conversation_id": "2041306334826791194",
+    "created_at": "2026-04-07T00:05:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-07T01:05:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041306334826791194"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1886385501130866688",
+          "start": 3,
+          "username": "Lomyral"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041306334826791194",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041192115359945111",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Lomyral: 我对所有人的接纳程度\n装逼，随便你\n鬼图，随便你\n裸照，随便你\n自残，随便你\no d   ，随便你\n柜子，随便你\n品客，随便你\n炫富，屏蔽\n幸福，屏蔽"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025838696294227968",
+        "conversation_id": "2041306334826791194",
+        "created_at": "2026-04-07T00:05:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T01:05:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041306334826791194"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1886385501130866688",
+              "start": 3,
+              "username": "Lomyral"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041306334826791194",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041192115359945111",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Lomyral: 我对所有人的接纳程度\n装逼，随便你\n鬼图，随便你\n裸照，随便你\n自残，随便你\no d   ，随便你\n柜子，随便你\n品客，随便你\n炫富，屏蔽\n幸福，屏蔽"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1886385501130866688",
+        "conversation_id": "2041192115359945111",
+        "created_at": "2026-04-06T16:31:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T17:31:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041192115359945111"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kuukiwfn/statu…",
+              "end": 99,
+              "expanded_url": "https://twitter.com/kuukiwfn/status/2041134033481199916",
+              "start": 76,
+              "url": "https://t.co/qfCaStHi02"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041192115359945111",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 373,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041134033481199916",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我对所有人的接纳程度\n装逼，随便你\n鬼图，随便你\n裸照，随便你\n自残，随便你\no d   ，随便你\n柜子，随便你\n品客，随便你\n炫富，屏蔽\n幸福，屏蔽 https://t.co/qfCaStHi02"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T07:42:57.000Z",
+        "description": "06‖自伤🔪‖od💊‖infp‖查成分互fo‖互fo私信‖bdsm‖缚绳‖未婚夫：@wys250smsb（反正在我結婚之前是不會鼠掉的啦！放心交友，私信一直开放）🚪详情私信‖提问：https://t.co/fyBUnrwbOs",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 41,
+                "username": "wys250smsb"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/lindong67314",
+                "end": 113,
+                "expanded_url": "https://ngl.link/lindong67314",
+                "start": 90,
+                "url": "https://t.co/fyBUnrwbOs"
+              }
+            ]
+          }
+        },
+        "id": "2025838696294227968",
+        "name": "凜冬",
+        "pinned_tweet_id": "2038929386372759978",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027609748909256704/xHIVymX5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 255,
+          "following_count": 185,
+          "like_count": 1612,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 398
+        },
+        "username": "Xilne_cc",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-03T12:05:49.000Z",
+        "description": "enby,he/they.泛性恋.日常推,除了碎碎念就没别的了.不贩卖任何东西,不提供任何付费服务.我不吸毒，别钓了\n\n互关们可以私我领取tg🤲🏻❤️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lomyral",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lomyral",
+                "start": 0,
+                "url": "https://t.co/ZWfkB4yLYI"
+              }
+            ]
+          }
+        },
+        "id": "1886385501130866688",
+        "location": "大停药时代👁️👁️",
+        "name": "Lomyral",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888630778453729280/vZIfPLyg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 602,
+          "following_count": 509,
+          "like_count": 39804,
+          "listed_count": 0,
+          "media_count": 87,
+          "tweet_count": 4838
+        },
+        "url": "https://t.co/ZWfkB4yLYI",
+        "username": "Lomyral",
+        "verified": false
+      }
+    ]
+  }
+}

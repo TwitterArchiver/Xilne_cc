@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2034640845228679168"
+      ]
+    },
+    "author_id": "2025838696294227968",
+    "conversation_id": "2034639443647496207",
+    "created_at": "2026-03-19T14:39:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-19T15:39:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034640848546344960"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/P7WqWnkZRW",
+          "end": 37,
+          "expanded_url": "https://x.com/Xilne_cc/status/2034640848546344960/photo/1",
+          "media_key": "3_2034640845228679168",
+          "start": 14,
+          "url": "https://t.co/P7WqWnkZRW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034640848546344960",
+    "in_reply_to_user_id": "2025838696294227968",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034639443647496207",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "可是他好便宜啊，便宜又好买 https://t.co/P7WqWnkZRW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 181,
+        "media_key": "3_2034640845228679168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDx_EZlbIAArpCv.jpg",
+        "width": 471
+      },
+      {
+        "height": 337,
+        "media_key": "3_2034639429244207104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDx9x-oawAAhqVy.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2034640845228679168"
+          ]
+        },
+        "author_id": "2025838696294227968",
+        "conversation_id": "2034639443647496207",
+        "created_at": "2026-03-19T14:39:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T15:39:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034640848546344960"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/P7WqWnkZRW",
+              "end": 37,
+              "expanded_url": "https://x.com/Xilne_cc/status/2034640848546344960/photo/1",
+              "media_key": "3_2034640845228679168",
+              "start": 14,
+              "url": "https://t.co/P7WqWnkZRW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034640848546344960",
+        "in_reply_to_user_id": "2025838696294227968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034639443647496207",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "可是他好便宜啊，便宜又好买 https://t.co/P7WqWnkZRW"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2034639429244207104"
+          ]
+        },
+        "author_id": "2025838696294227968",
+        "conversation_id": "2034639443647496207",
+        "created_at": "2026-03-19T14:33:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T15:33:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034639443647496207"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qowxuXoTrk",
+              "end": 53,
+              "expanded_url": "https://x.com/Xilne_cc/status/2034639443647496207/photo/1",
+              "media_key": "3_2034639429244207104",
+              "start": 30,
+              "url": "https://t.co/qowxuXoTrk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034639443647496207",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "到底在热销什么……\n不敢多买，怕被晶，就下了4盒75mg的 https://t.co/qowxuXoTrk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T07:42:57.000Z",
+        "description": "♡·愛你ちゃん成長日記⁺♡",
+        "id": "2025838696294227968",
+        "name": "凜冬",
+        "pinned_tweet_id": "2034434093933629675",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027609748909256704/xHIVymX5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 45,
+          "like_count": 110,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 52
+        },
+        "username": "Xilne_cc",
+        "verified": false
+      }
+    ]
+  }
+}

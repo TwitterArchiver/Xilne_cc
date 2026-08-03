@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2025838696294227968",
+    "conversation_id": "2034375193670701222",
+    "created_at": "2026-03-19T15:15:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-19T16:15:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034649952958533668"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "831505321495392256",
+          "start": 0,
+          "username": "_Qincii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034649952958533668",
+    "in_reply_to_user_id": "831505321495392256",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034375193670701222",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_Qincii 蹲蹲"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025838696294227968",
+        "conversation_id": "2034375193670701222",
+        "created_at": "2026-03-19T15:15:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T16:15:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034649952958533668"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "831505321495392256",
+              "start": 0,
+              "username": "_Qincii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034649952958533668",
+        "in_reply_to_user_id": "831505321495392256",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034375193670701222",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_Qincii 蹲蹲"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "831505321495392256",
+        "conversation_id": "2034375193670701222",
+        "created_at": "2026-03-18T21:03:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-18T22:03:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034375193670701222"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2034375193670701222",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 859,
+          "like_count": 25,
+          "quote_count": 0,
+          "reply_count": 26,
+          "retweet_count": 27
+        },
+        "reply_settings": "everyone",
+        "text": "抽奖搞波流量，好无聊：\n\n一等奖：88r（1人）\n二等奖：52r（2人）\n三等奖：18r（3人）\n参与奖：5.2r（10人）\n\n转发➕评论即可参与，感兴趣可以互fo找我聊天^^"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T07:42:57.000Z",
+        "description": "♡·愛你ちゃん成長日記⁺♡",
+        "id": "2025838696294227968",
+        "name": "凜冬",
+        "pinned_tweet_id": "2034434093933629675",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027609748909256704/xHIVymX5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 47,
+          "like_count": 114,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 55
+        },
+        "username": "Xilne_cc",
+        "verified": false
+      },
+      {
+        "created_at": "2017-02-14T14:08:12.000Z",
+        "description": "可以叫我小业，发点日常、碎碎念，成分复杂^^感兴趣可互fo",
+        "id": "831505321495392256",
+        "name": "Vrrz_",
+        "pinned_tweet_id": "1479028152185671680",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033262304448622592/AaMN38G4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 29,
+          "like_count": 25,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 47
+        },
+        "username": "_Qincii",
+        "verified": false
+      }
+    ]
+  }
+}

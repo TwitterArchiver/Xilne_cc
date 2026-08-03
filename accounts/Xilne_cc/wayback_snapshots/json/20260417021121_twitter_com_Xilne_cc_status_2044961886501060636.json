@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2025838696294227968",
+    "conversation_id": "2044961585215746444",
+    "created_at": "2026-04-17T02:11:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-17T03:11:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044961886501060636"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2044961886501060636",
+    "in_reply_to_user_id": "2025838696294227968",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044961585215746444",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "太好了！！！下午的课没有了，一会儿回去继续爽睡，早知道就再补点了，上完课刚好有药效૮ ᴗ͈ˬᴗ͈ෆა"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025838696294227968",
+        "conversation_id": "2044961585215746444",
+        "created_at": "2026-04-17T02:11:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T03:11:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044961886501060636"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2044961886501060636",
+        "in_reply_to_user_id": "2025838696294227968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044961585215746444",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "太好了！！！下午的课没有了，一会儿回去继续爽睡，早知道就再补点了，上完课刚好有药效૮ ᴗ͈ˬᴗ͈ෆა"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025838696294227968",
+        "conversation_id": "2044961585215746444",
+        "created_at": "2026-04-17T02:10:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T03:10:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044961585215746444"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2044961585215746444",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "普瑞牛逼！！已经15个小时了还在药效，4t绿普4t橙普๑'ꇴ'๑不枉我戒了半个月，得劲得劲得劲得劲得劲\n课我杀了你啊，如果不是你我还可以爽睡⑉꒦ິ^꒦ິ⑉不过为什么我洗脸还可以看到内幻啊啊啊啊ㅇㅅㅇ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T07:42:57.000Z",
+        "description": "06‖自伤🔪‖重抑重焦精分‖infp‖查成分互fo‖互fo私信‖bdsm‖缚绳‖未婚夫：@wys250smsb（反正在我結婚之前是不會鼠掉的啦！放心交友，私信一直开放）🚪详情私信‖提问：https://t.co/fyBUnrwbOs",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 44,
+                "username": "wys250smsb"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/lindong67314",
+                "end": 116,
+                "expanded_url": "https://ngl.link/lindong67314",
+                "start": 93,
+                "url": "https://t.co/fyBUnrwbOs"
+              }
+            ]
+          }
+        },
+        "id": "2025838696294227968",
+        "name": "凜冬",
+        "pinned_tweet_id": "2038929386372759978",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027609748909256704/xHIVymX5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 260,
+          "following_count": 197,
+          "like_count": 1736,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 466
+        },
+        "username": "Xilne_cc",
+        "verified": false
+      }
+    ]
+  }
+}

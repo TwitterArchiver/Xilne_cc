@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2025838696294227968",
+    "conversation_id": "2038878486748971146",
+    "created_at": "2026-03-31T10:43:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-31T11:43:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038930130433974642"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2014098182184009728",
+          "start": 0,
+          "username": "HuffmanAlm86735"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038930130433974642",
+    "in_reply_to_user_id": "2014098182184009728",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038882653727035516",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HuffmanAlm86735 我写反了啊啊啊啊！我当时太生气了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025838696294227968",
+        "conversation_id": "2038878486748971146",
+        "created_at": "2026-03-31T10:43:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T11:43:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038930130433974642"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2014098182184009728",
+              "start": 0,
+              "username": "HuffmanAlm86735"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038930130433974642",
+        "in_reply_to_user_id": "2014098182184009728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038882653727035516",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HuffmanAlm86735 我写反了啊啊啊啊！我当时太生气了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2014098182184009728",
+        "conversation_id": "2038878486748971146",
+        "created_at": "2026-03-31T07:34:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T08:34:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038882653727035516"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2025838696294227968",
+              "start": 0,
+              "username": "Xilne_cc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038882653727035516",
+        "in_reply_to_user_id": "2025838696294227968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 130,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038878486748971146",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xilne_cc 对"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T07:42:57.000Z",
+        "description": "♡·愛你ちゃん成長日記⁺♡\nhttps://t.co/fyBUnrwbOs",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lindong67314",
+                "end": 37,
+                "expanded_url": "https://ngl.link/lindong67314",
+                "start": 14,
+                "url": "https://t.co/fyBUnrwbOs"
+              }
+            ]
+          }
+        },
+        "id": "2025838696294227968",
+        "name": "凜冬",
+        "pinned_tweet_id": "2034434093933629675",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027609748909256704/xHIVymX5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 145,
+          "following_count": 145,
+          "like_count": 1178,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 251
+        },
+        "username": "Xilne_cc",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-21T22:10:25.000Z",
+        "description": "小愿/愿酱|互fo|生产日期2010 10.14\n国内联系方式只给女生\n我就这么一直静静的看着你👀\n接血图定制喵 只要是凉席的我就接😋价格你定 不是很低就ok\n俺是听障人（但是可以正常交流 线下不说话只打字就可以正常交流！）",
+        "id": "2014098182184009728",
+        "location": "天天天国地狱国",
+        "name": "スパイダーブレード",
+        "pinned_tweet_id": "2034200911174918626",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035762485735940096/AxOkMmGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 256,
+          "following_count": 230,
+          "like_count": 4430,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 759
+        },
+        "username": "HuffmanAlm86735",
+        "verified": false
+      }
+    ]
+  }
+}

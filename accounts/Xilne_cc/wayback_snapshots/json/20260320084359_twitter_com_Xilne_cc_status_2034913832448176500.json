@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2025838696294227968",
+    "conversation_id": "2034482197856706611",
+    "created_at": "2026-03-20T08:43:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-20T09:43:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034913832448176500"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1688959853346140178",
+          "start": 0,
+          "username": "Ellieo07"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034913832448176500",
+    "in_reply_to_user_id": "1688959853346140178",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034482197856706611",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ellieo07 这么敏感的吗(  ⩌ - ⩌ )"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025838696294227968",
+        "conversation_id": "2034482197856706611",
+        "created_at": "2026-03-20T08:43:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-20T09:43:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034913832448176500"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1688959853346140178",
+              "start": 0,
+              "username": "Ellieo07"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034913832448176500",
+        "in_reply_to_user_id": "1688959853346140178",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034482197856706611",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ellieo07 这么敏感的吗(  ⩌ - ⩌ )"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1688959853346140178",
+        "conversation_id": "2034482197856706611",
+        "created_at": "2026-03-19T04:08:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T05:08:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034482197856706611"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2034482197856706611",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 7671,
+          "like_count": 52,
+          "quote_count": 1,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "老铁们我今天又被晶了，你们根本就不知道多搞笑一件事，我以为我在黑叉发的东西被晶了或者骂那个举头三尺有神明被晶了，结果是因为昨天因为舍友太死妈在微博发了句好想砍死舍友被晶，说是我发这个搞得公安很紧张，最后阿瑟说了句没啥事你删了就走吧然后我就走了我的发克呀我他妈当时就无语了差点笑出来"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T07:42:57.000Z",
+        "description": "♡·愛你ちゃん成長日記⁺♡",
+        "id": "2025838696294227968",
+        "name": "凜冬",
+        "pinned_tweet_id": "2034434093933629675",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027609748909256704/xHIVymX5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49,
+          "following_count": 76,
+          "like_count": 149,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 79
+        },
+        "username": "Xilne_cc",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-08T17:06:38.000Z",
+        "description": "互fo私信只fo有逼的",
+        "id": "1688959853346140178",
+        "location": "月球",
+        "name": "estelle",
+        "pinned_tweet_id": "2032137448562831599",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031192448437985280/bKRLmS5c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 280,
+          "following_count": 173,
+          "like_count": 472,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 399
+        },
+        "username": "Ellieo07",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,288 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2039308121198452736"
+      ],
+      "media_source_tweet_id": [
+        "2039308128660144528"
+      ]
+    },
+    "author_id": "2025838696294227968",
+    "conversation_id": "2039317401213555098",
+    "created_at": "2026-04-01T12:22:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-01T13:22:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039317401213555098"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "2014723682548224000",
+          "start": 3,
+          "username": "FanQie_CaoDamn"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/P37Fh31LAG",
+          "end": 119,
+          "expanded_url": "https://x.com/FanQie_CaoDamn/status/2039308128660144528/photo/1",
+          "media_key": "3_2039308121198452736",
+          "start": 96,
+          "url": "https://t.co/P37Fh31LAG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039317401213555098",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039308128660144528",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @FanQie_CaoDamn: 新群——\n申請進群前需要：\n1.關注操蛋\n2.留言這條帖子\n3.群申請時需帶上推特賬號\n4.進群後不可隨便拉人  轉帖隨意\n\n群聊不建政  其他你隨意 https://t.co/P37Fh31LAG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1494,
+        "media_key": "3_2039308121198452736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE0T7neaYAAwzx4.jpg",
+        "width": 1031
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2039308121198452736"
+          ],
+          "media_source_tweet_id": [
+            "2039308128660144528"
+          ]
+        },
+        "author_id": "2025838696294227968",
+        "conversation_id": "2039317401213555098",
+        "created_at": "2026-04-01T12:22:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T13:22:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039317401213555098"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "2014723682548224000",
+              "start": 3,
+              "username": "FanQie_CaoDamn"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/P37Fh31LAG",
+              "end": 119,
+              "expanded_url": "https://x.com/FanQie_CaoDamn/status/2039308128660144528/photo/1",
+              "media_key": "3_2039308121198452736",
+              "start": 96,
+              "url": "https://t.co/P37Fh31LAG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039317401213555098",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039308128660144528",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @FanQie_CaoDamn: 新群——\n申請進群前需要：\n1.關注操蛋\n2.留言這條帖子\n3.群申請時需帶上推特賬號\n4.進群後不可隨便拉人  轉帖隨意\n\n群聊不建政  其他你隨意 https://t.co/P37Fh31LAG"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2039308121198452736"
+          ]
+        },
+        "author_id": "2014723682548224000",
+        "conversation_id": "2039308128660144528",
+        "created_at": "2026-04-01T11:45:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T12:45:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039308128660144528"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/P37Fh31LAG",
+              "end": 99,
+              "expanded_url": "https://x.com/FanQie_CaoDamn/status/2039308128660144528/photo/1",
+              "media_key": "3_2039308121198452736",
+              "start": 76,
+              "url": "https://t.co/P37Fh31LAG"
+            },
+            {
+              "display_url": "x.com/FanQie_CaoDamn…",
+              "end": 123,
+              "expanded_url": "https://twitter.com/FanQie_CaoDamn/status/2039256755440668774",
+              "start": 100,
+              "url": "https://t.co/L9w0UxYlxg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039308128660144528",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 283,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039256755440668774",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "新群——\n申請進群前需要：\n1.關注操蛋\n2.留言這條帖子\n3.群申請時需帶上推特賬號\n4.進群後不可隨便拉人  轉帖隨意\n\n群聊不建政  其他你隨意 https://t.co/P37Fh31LAG https://t.co/L9w0UxYlxg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T07:42:57.000Z",
+        "description": "♡·愛你ちゃん成長日記⁺♡\n未婚夫：@wys250smsb（反正在我結婚之前是不會鼠掉的啦！放心交友）\nhttps://t.co/fyBUnrwbOs",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 18,
+                "username": "wys250smsb"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/lindong67314",
+                "end": 75,
+                "expanded_url": "https://ngl.link/lindong67314",
+                "start": 52,
+                "url": "https://t.co/fyBUnrwbOs"
+              }
+            ]
+          }
+        },
+        "id": "2025838696294227968",
+        "name": "凜冬",
+        "pinned_tweet_id": "2034434093933629675",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027609748909256704/xHIVymX5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 179,
+          "following_count": 162,
+          "like_count": 1291,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 298
+        },
+        "username": "Xilne_cc",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-23T15:35:47.000Z",
+        "description": "11年 順女  LGBTQ全友好   查成分 藍v互關 會亂追人（？）\nhttps://t.co/76AbZG7YzL\n\n家妻@fuyi0816",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 63,
+                "username": "fuyi0816"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/_tomato._.fanq…",
+                "end": 59,
+                "expanded_url": "https://ngl.link/_tomato._.fanqie_",
+                "start": 36,
+                "url": "https://t.co/76AbZG7YzL"
+              }
+            ]
+          }
+        },
+        "id": "2014723682548224000",
+        "location": "🚪",
+        "name": "番茄操蛋5.0",
+        "pinned_tweet_id": "2027179646979334157",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037832407521665024/m9NrbAW-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 792,
+          "following_count": 521,
+          "like_count": 6201,
+          "listed_count": 0,
+          "media_count": 87,
+          "tweet_count": 1936
+        },
+        "username": "FanQie_CaoDamn",
+        "verified": true
+      }
+    ]
+  }
+}

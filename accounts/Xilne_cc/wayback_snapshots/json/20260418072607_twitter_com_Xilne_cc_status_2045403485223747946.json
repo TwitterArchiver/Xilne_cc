@@ -1,0 +1,303 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2044061195683147777"
+      ],
+      "media_source_tweet_id": [
+        "2045336515534893361"
+      ]
+    },
+    "author_id": "2025838696294227968",
+    "conversation_id": "2045403485223747946",
+    "created_at": "2026-04-18T07:26:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-18T08:26:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045403485223747946"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1545277694325116928",
+          "start": 3,
+          "username": "BI3BXI"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Q1yqCPdp6T",
+          "end": 44,
+          "expanded_url": "https://x.com/BI3BXI/status/2045336515534893361/photo/1",
+          "media_key": "3_2044061195683147777",
+          "start": 21,
+          "url": "https://t.co/Q1yqCPdp6T"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045403485223747946",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045336515534893361",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @BI3BXI: 抗抑郁药是这样的 https://t.co/Q1yqCPdp6T"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 272,
+        "media_key": "3_2044061195683147777",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF3209vasAEP7DM.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2044061195683147777"
+          ],
+          "media_source_tweet_id": [
+            "2045336515534893361"
+          ]
+        },
+        "author_id": "2025838696294227968",
+        "conversation_id": "2045403485223747946",
+        "created_at": "2026-04-18T07:26:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T08:26:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045403485223747946"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1545277694325116928",
+              "start": 3,
+              "username": "BI3BXI"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Q1yqCPdp6T",
+              "end": 44,
+              "expanded_url": "https://x.com/BI3BXI/status/2045336515534893361/photo/1",
+              "media_key": "3_2044061195683147777",
+              "start": 21,
+              "url": "https://t.co/Q1yqCPdp6T"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045403485223747946",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045336515534893361",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @BI3BXI: 抗抑郁药是这样的 https://t.co/Q1yqCPdp6T"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2044061195683147777"
+          ]
+        },
+        "author_id": "1545277694325116928",
+        "conversation_id": "2045336515534893361",
+        "created_at": "2026-04-18T03:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T04:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045336515534893361"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Q1yqCPdp6T",
+              "end": 32,
+              "expanded_url": "https://x.com/BI3BXI/status/2045336515534893361/photo/1",
+              "media_key": "3_2044061195683147777",
+              "start": 9,
+              "url": "https://t.co/Q1yqCPdp6T"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045336515534893361",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2023,
+          "like_count": 47,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "抗抑郁药是这样的 https://t.co/Q1yqCPdp6T"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T07:42:57.000Z",
+        "description": "06‖自伤🔪‖重抑重焦精分‖infp‖查成分互fo‖互fo私信‖bdsm‖缚绳‖未婚夫：@wys250smsb（反正在我結婚之前是不會鼠掉的啦！放心交友，私信一直开放）🚪详情私信‖提问：https://t.co/fyBUnrwbOs",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 44,
+                "username": "wys250smsb"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/lindong67314",
+                "end": 116,
+                "expanded_url": "https://ngl.link/lindong67314",
+                "start": 93,
+                "url": "https://t.co/fyBUnrwbOs"
+              }
+            ]
+          }
+        },
+        "id": "2025838696294227968",
+        "name": "凜冬（千年老王八不死版）",
+        "pinned_tweet_id": "2038929386372759978",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027609748909256704/xHIVymX5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 261,
+          "following_count": 197,
+          "like_count": 1756,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 496
+        },
+        "username": "Xilne_cc",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "海棠花开 真情为您｜Premium+｜🏳️‍🌈Enby🏳️‍⚧️\nCrush（？）@XUEQIUxka 好姐姐 @Tennoujinyano\n❤️@show5560 本垢@yqua_\n好伙伴@hoshinofujivy @Jimi_yang22770",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 41,
+                "username": "XUEQIUxka"
+              },
+              {
+                "end": 70,
+                "start": 56,
+                "username": "Tennoujinyano"
+              },
+              {
+                "end": 82,
+                "start": 73,
+                "username": "show5560"
+              },
+              {
+                "end": 91,
+                "start": 85,
+                "username": "yqua_"
+              },
+              {
+                "end": 109,
+                "start": 95,
+                "username": "hoshinofujivy"
+              },
+              {
+                "end": 125,
+                "start": 110,
+                "username": "Jimi_yang22770"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "王串场",
+        "name": "你是想气死铨酱么🍥",
+        "pinned_tweet_id": "2025597427319980516",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998173383339712512/6wVG25qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8723,
+          "following_count": 4053,
+          "like_count": 41772,
+          "listed_count": 25,
+          "media_count": 2712,
+          "tweet_count": 10572
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "BI3BXI",
+        "verified": true
+      }
+    ]
+  }
+}

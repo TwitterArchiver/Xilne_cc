@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2025838696294227968",
+    "conversation_id": "2034912695930298482",
+    "created_at": "2026-03-20T08:39:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-20T09:39:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034912695930298482"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1714008587012612097",
+          "start": 3,
+          "username": "angelkawaii2P"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034912695930298482",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 82
+    },
+    "referenced_tweets": [
+      {
+        "id": "1971676121508024661",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "RT @angelkawaii2P: ∴∵∴ ୨୧ ∴∵∴ ୨୧ ∴∵∴ ୨୧ ∴∵∴\n\n我是小淚｜03｜重抑重焦｜餐券OD地雷女\n喜歡我的話請多給我打錢拜託了 家裡給的生活費不太夠 投餵跟門檻會拿去看病跟買衣服\n不太主動說話但會努力提供情緒價值ᐡ т · т ᐡ\n感謝轉發 女…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1476,
+        "media_key": "3_1971676112528068613",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1zM-ltb0AUgZ-g.jpg",
+        "width": 1170
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1971676112523837442",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1zM-lsbQAI6tfW.jpg",
+        "width": 1636
+      },
+      {
+        "height": 1080,
+        "media_key": "3_1971676112523866113",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1zM-lsbsAELI3r.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2000,
+        "media_key": "3_1971676112527953920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1zM-ltaEAAfOlY.jpg",
+        "width": 2000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025838696294227968",
+        "conversation_id": "2034912695930298482",
+        "created_at": "2026-03-20T08:39:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-20T09:39:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034912695930298482"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1714008587012612097",
+              "start": 3,
+              "username": "angelkawaii2P"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034912695930298482",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 82
+        },
+        "referenced_tweets": [
+          {
+            "id": "1971676121508024661",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "RT @angelkawaii2P: ∴∵∴ ୨୧ ∴∵∴ ୨୧ ∴∵∴ ୨୧ ∴∵∴\n\n我是小淚｜03｜重抑重焦｜餐券OD地雷女\n喜歡我的話請多給我打錢拜託了 家裡給的生活費不太夠 投餵跟門檻會拿去看病跟買衣服\n不太主動說話但會努力提供情緒價值ᐡ т · т ᐡ\n感謝轉發 女…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1971676112528068613",
+            "3_1971676112523837442",
+            "3_1971676112523866113",
+            "3_1971676112527953920"
+          ]
+        },
+        "author_id": "1714008587012612097",
+        "conversation_id": "1971676121508024661",
+        "created_at": "2025-09-26T20:39:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-26T21:39:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1971676121508024661"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nlxKaFuwNs",
+              "end": 188,
+              "expanded_url": "https://x.com/angelkawaii2P/status/1971676121508024661/photo/1",
+              "media_key": "3_1971676112528068613",
+              "start": 165,
+              "url": "https://t.co/nlxKaFuwNs"
+            },
+            {
+              "display_url": "pic.x.com/nlxKaFuwNs",
+              "end": 188,
+              "expanded_url": "https://x.com/angelkawaii2P/status/1971676121508024661/photo/1",
+              "media_key": "3_1971676112523837442",
+              "start": 165,
+              "url": "https://t.co/nlxKaFuwNs"
+            },
+            {
+              "display_url": "pic.x.com/nlxKaFuwNs",
+              "end": 188,
+              "expanded_url": "https://x.com/angelkawaii2P/status/1971676121508024661/photo/1",
+              "media_key": "3_1971676112523866113",
+              "start": 165,
+              "url": "https://t.co/nlxKaFuwNs"
+            },
+            {
+              "display_url": "pic.x.com/nlxKaFuwNs",
+              "end": 188,
+              "expanded_url": "https://x.com/angelkawaii2P/status/1971676121508024661/photo/1",
+              "media_key": "3_1971676112527953920",
+              "start": 165,
+              "url": "https://t.co/nlxKaFuwNs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971676121508024661",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 73901,
+          "like_count": 93,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 82
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "∴∵∴ ୨୧ ∴∵∴ ୨୧ ∴∵∴ ୨୧ ∴∵∴\n\n我是小淚｜03｜重抑重焦｜餐券OD地雷女\n喜歡我的話請多給我打錢拜託了 家裡給的生活費不太夠 投餵跟門檻會拿去看病跟買衣服\n不太主動說話但會努力提供情緒價值ᐡ т · т ᐡ\n感謝轉發 女寶必回(՞ ܸ. .ܸ՞)漏了請私信\n\n∴∵∴ ୨୧ ∴∵∴ ୨୧ ∴∵∴ ୨୧ ∴∵∴ https://t.co/nlxKaFuwNs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-23T07:42:57.000Z",
+        "description": "♡·愛你ちゃん成長日記⁺♡",
+        "id": "2025838696294227968",
+        "name": "凜冬",
+        "pinned_tweet_id": "2034434093933629675",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027609748909256704/xHIVymX5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49,
+          "following_count": 76,
+          "like_count": 149,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 76
+        },
+        "username": "Xilne_cc",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-16T20:01:18.000Z",
+        "description": "20↑｜病み垢 置頂必読｜重加工 線下查無此人｜不登校餐券od妹｜🚪座標問題10r一個｜其餘置頂不看拉黑",
+        "id": "1714008587012612097",
+        "location": "天国",
+        "name": "ナミダ#土衛拾叁",
+        "pinned_tweet_id": "1971676121508024661",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033791612153958400/sYWO705T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 369,
+          "following_count": 227,
+          "like_count": 1101,
+          "listed_count": 0,
+          "media_count": 60,
+          "tweet_count": 1562
+        },
+        "username": "angelkawaii2P",
+        "verified": false
+      }
+    ]
+  }
+}
